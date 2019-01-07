@@ -1,0 +1,944 @@
+﻿Log file open, 01/05/19 18:41:24
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: TheOnioning
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.460568
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -8:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.717s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4369336
+LogInit: Engine Version: 4.20.3-4369336+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-5820K CPU @ 3.30GHz, GPU: NVIDIA GeForce GTX 970
+LogInit: Compiled (64-bit): Sep 17 2018 12:26:19
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line: -EpicPortal  -epicusername="F0reskinPro" -epicuserid=fca6da8878e34404b63a1f9a2d2e697f -epiclocale=en-US
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.110s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2019.01.06-02.41.25:606][  0]LogInit: Selected Device Profile: [Windows]
+[2019.01.06-02.41.25:606][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.01.06-02.41.25:660][  0]LogHAL: Display: Platform has ~ 8 GB [8496615424 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.01.06-02.41.25:660][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2019.01.06-02.41.25:660][  0]LogInit: Going up to parent DeviceProfile []
+[2019.01.06-02.41.25:660][  0]LogInit: Computer: DESKTOP-ODLAD0V
+[2019.01.06-02.41.25:660][  0]LogInit: User: Ryan
+[2019.01.06-02.41.25:660][  0]LogInit: CPU Page size=4096, Cores=6
+[2019.01.06-02.41.25:660][  0]LogInit: High frequency timer resolution =3.220792 MHz
+[2019.01.06-02.41.25:661][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2019.01.06-02.41.25:661][  0]LogMemory: Platform Memory Stats for Windows
+[2019.01.06-02.41.25:661][  0]LogMemory: Process Physical Memory: 101.67 MB used, 101.67 MB peak
+[2019.01.06-02.41.25:661][  0]LogMemory: Process Virtual Memory: 85.82 MB used, 85.82 MB peak
+[2019.01.06-02.41.25:661][  0]LogMemory: Physical Memory: 5388.99 MB used,  2714.02 MB free, 8103.00 MB total
+[2019.01.06-02.41.25:661][  0]LogMemory: Virtual Memory: 4652.75 MB used,  2714.02 MB free, 134217728.00 MB total
+[2019.01.06-02.41.25:679][  0]LogInit: Using OS detected language (en-US).
+[2019.01.06-02.41.25:679][  0]LogInit: Using OS detected locale (en-US).
+[2019.01.06-02.41.25:680][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.01.06-02.41.26:057][  0]LogStreaming: Display: Took  0.379s to InitEngineTextLocalization.
+[2019.01.06-02.41.26:057][  0]LogInit: Setting process to per monitor DPI aware
+[2019.01.06-02.41.26:107][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.01.06-02.41.26:107][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.01.06-02.41.26:314][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.01.06-02.41.26:314][  0]LogD3D11RHI: D3D11 adapters:
+[2019.01.06-02.41.26:368][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 970' (Feature Level 11_0)
+[2019.01.06-02.41.26:369][  0]LogD3D11RHI:       4043/0/4051 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2019.01.06-02.41.26:371][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.01.06-02.41.26:371][  0]LogD3D11RHI:       0/0/4051 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.01.06-02.41.26:371][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.01.06-02.41.26:378][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.01.06-02.41.26:378][  0]LogD3D11RHI:     GPU DeviceId: 0x13c2 (for the marketing name, search the web for "GPU Device Id")
+[2019.01.06-02.41.26:378][  0]LogWindows: EnumDisplayDevices:
+[2019.01.06-02.41.26:379][  0]LogWindows:    0. 'NVIDIA GeForce GTX 970' (P:1 D:1)
+[2019.01.06-02.41.26:379][  0]LogWindows:    1. 'NVIDIA GeForce GTX 970' (P:0 D:1)
+[2019.01.06-02.41.26:379][  0]LogWindows:    2. 'NVIDIA GeForce GTX 970' (P:0 D:0)
+[2019.01.06-02.41.26:380][  0]LogWindows:    3. 'NVIDIA GeForce GTX 970' (P:0 D:0)
+[2019.01.06-02.41.26:380][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2019.01.06-02.41.26:380][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 970
+[2019.01.06-02.41.26:380][  0]LogD3D11RHI:   Driver Version: 399.07 (internal:24.21.13.9907, unified:399.07)
+[2019.01.06-02.41.26:380][  0]LogD3D11RHI:      Driver Date: 8-21-2018
+[2019.01.06-02.41.26:380][  0]LogRHI: Texture pool is 2830 MB (70% of 4043 MB)
+[2019.01.06-02.41.26:419][  0]LogD3D11RHI: Async texture creation enabled
+[2019.01.06-02.41.26:437][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2019.01.06-02.41.26:488][  0]LogShaderCompilers: Guid format shader working directory is -29 characters bigger than the processId version (../../../../../../Users/Ryan/Documents/GitHub/TheOnioning2019/TheOnioning/Intermediate/Shaders/WorkingDirectory/10404/).
+[2019.01.06-02.41.26:488][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Ryan/AppData/Local/Temp/UnrealShaderWorkingDir/EB68BF0D4057EE6C09509B8CFAD984A4/'.
+[2019.01.06-02.41.26:852][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.01.06-02.41.26:867][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.01.06-02.41.26:882][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.01.06-02.41.26:897][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.01.06-02.41.26:913][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.01.06-02.41.26:928][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.01.06-02.41.26:943][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.01.06-02.41.26:957][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.01.06-02.41.26:981][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.01.06-02.41.27:061][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.06-02.41.27:061][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.06-02.41.27:061][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.06-02.41.27:061][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.06-02.41.27:061][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.06-02.41.27:061][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.06-02.41.27:061][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.06-02.41.27:061][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.06-02.41.27:061][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.06-02.41.27:061][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.06-02.41.27:061][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.06-02.41.27:061][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.06-02.41.27:061][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.06-02.41.27:061][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.06-02.41.27:061][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.06-02.41.27:061][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.06-02.41.27:061][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.06-02.41.27:061][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.06-02.41.27:063][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.01.06-02.41.27:126][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.01.06-02.41.27:126][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.01.06-02.41.27:150][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.01.06-02.41.27:150][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.01.06-02.41.27:163][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.01.06-02.41.27:177][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.01.06-02.41.27:190][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.01.06-02.41.27:205][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.01.06-02.41.27:215][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.01.06-02.41.27:215][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.01.06-02.41.27:300][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.01.06-02.41.27:301][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.01.06-02.41.27:301][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.01.06-02.41.28:090][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.01.06-02.41.28:187][  0]LogDerivedDataCache: Loaded boot cache 0.10s 71MB C:/Users/Ryan/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2019.01.06-02.41.28:187][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Ryan/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2019.01.06-02.41.28:187][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Ryan/Documents/GitHub/TheOnioning2019/TheOnioning/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.01.06-02.41.28:187][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.01.06-02.41.28:188][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Ryan/Documents/GitHub/TheOnioning2019/TheOnioning/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.01.06-02.41.28:188][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.01.06-02.41.28:200][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.01.06-02.41.28:212][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Ryan/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.01.06-02.41.28:212][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.01.06-02.41.28:212][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.01.06-02.41.28:231][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.01.06-02.41.28:232][  0]LogSlate: Using FreeType 2.6.0
+[2019.01.06-02.41.28:233][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.01.06-02.41.28:311][  0]LogAssetRegistry: FAssetRegistry took 0.0262 seconds to start up
+[2019.01.06-02.41.28:637][  0]LogInit: Selected Device Profile: [Windows]
+[2019.01.06-02.41.28:780][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.01.06-02.41.28:785][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.01.06-02.41.28:785][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.01.06-02.41.28:785][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.01.06-02.41.28:785][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.01.06-02.41.28:803][  0]LogNetVersion: TheOnioning 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 2736480446)
+[2019.01.06-02.41.29:641][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.360930 seconds
+[2019.01.06-02.41.29:647][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2019.01.06-02.41.29:647][  0]LogUObjectAllocator: 6690864 out of 0 bytes used by permanent object pool.
+[2019.01.06-02.41.29:647][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.01.06-02.41.30:651][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.01.06-02.41.30:664][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.01.06-02.41.30:807][  0]SourceControl: Source control is disabled
+[2019.01.06-02.41.30:807][  0]SourceControl: Source control is disabled
+[2019.01.06-02.41.30:808][  0]SourceControl: Source control is disabled
+[2019.01.06-02.41.30:809][  0]SourceControl: Source control is disabled
+[2019.01.06-02.41.30:989][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.01.06-02.41.31:057][  0]LogOcInput: OculusInput pre-init called
+[2019.01.06-02.41.31:120][  0]LogEngine: Initializing Engine...
+[2019.01.06-02.41.31:121][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.01.06-02.41.31:122][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.01.06-02.41.31:122][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.01.06-02.41.31:122][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.01.06-02.41.31:122][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.01.06-02.41.31:335][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.01.06-02.41.31:354][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.01.06-02.41.31:380][  0]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.01.06-02.41.31:394][  0]LogInit: FAudioDevice initialized.
+[2019.01.06-02.41.31:394][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.01.06-02.41.31:733][  0]LogDerivedDataCache: Saved boot cache 0.34s 71MB C:/Users/Ryan/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2019.01.06-02.41.31:752][  0]LogInit: Texture streaming: Enabled
+[2019.01.06-02.41.31:775][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.01.06-02.41.31:838][  0]LogInit: Transaction tracking system initialized
+[2019.01.06-02.41.31:871][  0]BlueprintLog: New page: Editor Load
+[2019.01.06-02.41.32:001][  0]LocalizationService: Localization service is disabled
+[2019.01.06-02.41.32:613][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.01.06-02.41.32:613][  0]LogCook: Display: Mobile HDR setting 1
+[2019.01.06-02.41.32:627][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Ryan/Documents/GitHub/TheOnioning2019/TheOnioning/Content/' took 0.06s
+[2019.01.06-02.41.32:627][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.01.06-02.41.32:627][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.01.06-02.41.32:627][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.01.06-02.41.32:627][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.01.06-02.41.32:627][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.01.06-02.41.32:753][  0]SourceControl: Source control is disabled
+[2019.01.06-02.41.32:753][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Ryan/Documents/GitHub/TheOnioning2019/TheOnioning/Content/Maps/Testing/PlayerTEST_MAP.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.01.06-02.41.32:754][  0]LogEditorServer: Warning: Can't find file '../../../../../../Users/Ryan/Documents/GitHub/TheOnioning2019/TheOnioning/Content/Maps/Testing/PlayerTEST_MAP.umap'
+[2019.01.06-02.41.32:769][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.01.06-02.41.32:854][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 83.925ms to complete.
+[2019.01.06-02.41.32:854][  0]LogFileHelpers: Loading map 'PlayerTEST_MAP' took 0.100
+[2019.01.06-02.41.33:620][  0]LogCollectionManager: Loaded 0 collections in 0.018990 seconds
+[2019.01.06-02.41.33:912][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Ryan/Documents/GitHub/TheOnioning2019/TheOnioning/Saved/Collections/' took 0.01s
+[2019.01.06-02.41.33:912][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Ryan/Documents/GitHub/TheOnioning2019/TheOnioning/Content/Developers/Ryan/Collections/' took 0.01s
+[2019.01.06-02.41.33:912][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Ryan/Documents/GitHub/TheOnioning2019/TheOnioning/Content/Collections/' took 0.01s
+[2019.01.06-02.41.33:912][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.01.06-02.41.33:954][  0]LogContentBrowser: Native class hierarchy populated in 0.0245 seconds. Added 2572 classes and 603 folders.
+[2019.01.06-02.41.34:135][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.01.06-02.41.36:084][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.01.06-02.41.36:372][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.06-02.41.36:384][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.06-02.41.36:391][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.06-02.41.36:398][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.06-02.41.36:433][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2019.01.06-02.41.37:678][  0]LogSlate: Took 0.000225 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.01.06-02.41.37:680][  0]LogSlate: Took 0.000191 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.01.06-02.41.37:716][  0]LogSlate: Took 0.013083 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.01.06-02.41.38:320][  0]LogRenderer: Reallocating scene render targets to support 1692x924 Format 10 NumSamples 1 (Frame:1).
+[2019.01.06-02.41.38:802][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.01.06-02.41.38:802][  0]LogLoad: (Engine Initialization) Total time: 17.27 seconds
+[2019.01.06-02.41.38:802][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.01.06-02.41.38:861][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.01.06-02.41.38:932][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.01.06-02.41.39:046][  1]LogAssetRegistry: Asset discovery search completed in 10.7583 seconds
+[2019.01.06-02.41.39:048][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.01.06-02.41.39:048][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000045 seconds (updated 0 objects)
+[2019.01.06-02.41.41:044][211]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.06-02.41.58:963][640]LogSlate: Took 0.010877 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.01.06-02.42.03:168][124]Cmd: MAP LOAD FILE="../../../../../../Users/Ryan/Documents/GitHub/TheOnioning2019/TheOnioning/Content/Maps/Main/Chapter1_MAP.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.01.06-02.42.03:197][124]LogSlate: Took 0.000249 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.01.06-02.42.03:209][124]LightingResults: New page: Lighting Build
+[2019.01.06-02.42.03:214][124]LogContentBrowser: Native class hierarchy updated for 'StatsViewer' in 0.0003 seconds. Added 5 classes and 0 folders.
+[2019.01.06-02.42.03:214][124]LoadErrors: New page: Loading map: Chapter1_MAP.umap
+[2019.01.06-02.42.03:215][124]MapCheck: New page: Map Check
+[2019.01.06-02.42.03:215][124]LightingResults: New page: Lighting Build
+[2019.01.06-02.42.12:770][124]LogAIModule: Creating AISystem for world Chapter1_MAP
+[2019.01.06-02.42.13:044][124]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.01.06-02.42.13:102][124]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.01.06-02.42.13:200][124]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 97.556ms to complete.
+[2019.01.06-02.42.13:200][124]LogFileHelpers: Loading map 'Chapter1_MAP' took 10.033
+[2019.01.06-02.42.13:214][124]LogSlate: Window 'Open Level' being destroyed
+[2019.01.06-02.43.28:774][693]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.06-02.43.28:893][706]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.06-02.43.28:965][706]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Main/Chapter1_MAP.Chapter1_MAP:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Main/Chapter1_MAP.Chapter1_MAP:PersistentLevel.Chapter1_MAP' with GeneratedClass '/Game/Maps/Main/Chapter1_MAP.Chapter1_MAP_C' with ClassGeneratedBy '/Game/Maps/Main/Chapter1_MAP.Chapter1_MAP:PersistentLevel.Chapter1_MAP'
+[2019.01.06-02.43.28:978][706]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.06-02.43.29:058][706]PIE: New page: PIE session: Chapter1_MAP (Jan 5, 2019, 10:43:29 AM)
+[2019.01.06-02.43.29:059][706]LogPlayLevel: Creating play world package: /Game/Maps/Main/UEDPIE_0_Chapter1_MAP
+[2019.01.06-02.43.29:200][706]LogPlayLevel: PIE: StaticDuplicateObject took: (0.141178s)
+[2019.01.06-02.43.29:201][706]LogAIModule: Creating AISystem for world Chapter1_MAP
+[2019.01.06-02.43.29:201][706]LogPlayLevel: PIE: World Init took: (0.000664s)
+[2019.01.06-02.43.29:215][706]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main/Chapter1_MAP.Chapter1_MAP to /Game/Maps/Main/UEDPIE_0_Chapter1_MAP.Chapter1_MAP (0.156462s)
+[2019.01.06-02.43.29:296][706]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.01.06-02.43.29:306][706]LogInit: FAudioDevice initialized.
+[2019.01.06-02.43.29:370][706]LogLoad: Game class is 'Player_GM_C'
+[2019.01.06-02.43.29:499][706]LogWorld: Bringing World /Game/Maps/Main/UEDPIE_0_Chapter1_MAP.Chapter1_MAP up for play (max tick rate 0) at 2019.01.05-18.43.29
+[2019.01.06-02.43.29:571][706]LogWorld: Bringing up level for play took: 0.078928
+[2019.01.06-02.43.29:629][706]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.01.06-02.43.29:690][706]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 10 classes and 0 folders.
+[2019.01.06-02.43.29:771][706]PIE: Play in editor start time for /Game/Maps/Main/UEDPIE_0_Chapter1_MAP 1.509
+[2019.01.06-02.43.29:771][706]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Main/Chapter1_MAP.Chapter1_MAP:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Main/Chapter1_MAP.Chapter1_MAP:PersistentLevel.Chapter1_MAP' with GeneratedClass '/Game/Maps/Main/Chapter1_MAP.Chapter1_MAP_C' with ClassGeneratedBy '/Game/Maps/Main/Chapter1_MAP.Chapter1_MAP:PersistentLevel.Chapter1_MAP'
+[2019.01.06-02.43.31:039][778]Cmd: LevelEditor.ToggleImmersive
+[2019.01.06-02.43.31:185][778]Cmd: LevelEditor.ToggleImmersive
+[2019.01.06-02.43.31:337][779]LogRenderer: Reallocating scene render targets to support 2560x1040 Format 10 NumSamples 1 (Frame:74).
+[2019.01.06-02.43.31:339][779]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.06-02.44.14:842][292]Cmd: fov 110
+[2019.01.06-02.44.14:842][292]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.06-02.44.23:848][373]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Main/Chapter1_MAP.Chapter1_MAP:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Main/Chapter1_MAP.Chapter1_MAP:PersistentLevel.Chapter1_MAP' with GeneratedClass '/Game/Maps/Main/Chapter1_MAP.Chapter1_MAP_C' with ClassGeneratedBy '/Game/Maps/Main/Chapter1_MAP.Chapter1_MAP:PersistentLevel.Chapter1_MAP'
+[2019.01.06-02.44.23:873][373]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.06-02.44.23:977][373]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.06-02.44.23:978][373]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Main/Chapter1_MAP.Chapter1_MAP:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Main/Chapter1_MAP.Chapter1_MAP:PersistentLevel.Chapter1_MAP' with GeneratedClass '/Game/Maps/Main/Chapter1_MAP.Chapter1_MAP_C' with ClassGeneratedBy '/Game/Maps/Main/Chapter1_MAP.Chapter1_MAP:PersistentLevel.Chapter1_MAP'
+[2019.01.06-02.44.24:006][373]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.06-02.44.24:042][374]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2019.01.06-02.44.25:414][478]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.06-02.44.37:989][954]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.06-02.44.49:386][491]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.06-02.45.25:559][110]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.06-02.46.19:433][605]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.06-02.46.22:155][841]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2019.01.06-02.46.34:813][222]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2019.01.06-02.46.36:029][346]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sphere)
+[2019.01.06-02.46.41:987][991]Cmd: TRANSACTION UNDO
+[2019.01.06-02.46.41:987][991]LogEditorTransaction: Undo Move Actors
+[2019.01.06-02.46.50:216][890]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.06-02.46.55:760][530]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2019.01.06-02.47.04:523][481]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.06-02.47.06:729][481]LogSavePackage: Moving '../../../../../../Users/Ryan/Documents/GitHub/TheOnioning2019/TheOnioning/Saved/Chapter1_MAP041865704F9969F338AF81BED472809D.tmp' to '../../../../../../Users/Ryan/Documents/GitHub/TheOnioning2019/TheOnioning/Content/Maps/Main/Chapter1_MAP.umap'
+[2019.01.06-02.47.09:323][737]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2019.01.06-02.47.38:413][  8]LogSlate: Took 0.012861 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.01.06-02.51.14:196][871]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.06-02.51.14:797][871]LogSavePackage: Moving '../../../../../../Users/Ryan/Documents/GitHub/TheOnioning2019/TheOnioning/Saved/Chapter1_MAPC87B737C4EC1331E122CC8836FBA802F.tmp' to '../../../../../../Users/Ryan/Documents/GitHub/TheOnioning2019/TheOnioning/Content/Maps/Main/Chapter1_MAP.umap'
+[2019.01.06-03.30.30:200][918]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.06-03.30.55:783][  0]LogSavePackage: Moving '../../../../../../Users/Ryan/Documents/GitHub/TheOnioning2019/TheOnioning/Saved/Chapter1_MAP_Auto1751A93E6414EC727D3515A9FF76F5795.tmp' to '../../../../../../Users/Ryan/Documents/GitHub/TheOnioning2019/TheOnioning/Saved/Autosaves/Game/Maps/Main/Chapter1_MAP_Auto1.umap'
+[2019.01.06-03.30.55:790][  0]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Main/Chapter1_MAP' took 0.614
+[2019.01.06-03.30.55:790][  0]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.614
+[2019.01.06-03.34.07:253][547]LogAssetTools: Warning: Failed to import 'C:\Users\Ryan\Desktop\vgafix.fon'. Unknown extension 'fon'.
+[2019.01.06-03.34.30:532][124]LogAssetTools: Warning: Failed to import 'C:\Users\Ryan\Desktop\coure.fon'. Unknown extension 'fon'.
+[2019.01.06-03.41.28:731][344]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.06-03.41.29:314][344]LogSavePackage: Moving '../../../../../../Users/Ryan/Documents/GitHub/TheOnioning2019/TheOnioning/Saved/Chapter1_MAP665A5E374F27C8CA1D862494D382D8BD.tmp' to '../../../../../../Users/Ryan/Documents/GitHub/TheOnioning2019/TheOnioning/Content/Maps/Main/Chapter1_MAP.umap'
+[2019.01.06-03.41.30:778][466]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.06-03.41.41:392][516]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.06-03.42.07:105][ 55]LogSlate: Took 0.020474 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2019.01.06-03.42.09:693][312]LogSlate: Window 'Master Sequence Settings' being destroyed
+[2019.01.06-03.42.28:773][715]LogSlate: Window 'Save Asset As' being destroyed
+[2019.01.06-03.42.28:954][715]LogAssetEditorManager: Opening Asset editor for LevelSequence /Game/Cinematics/Chapter1/OpeningCutscene_LM.OpeningCutscene_LM
+[2019.01.06-03.42.39:492][623]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.06-03.42.42:392][853]LogSavePackage: Moving '../../../../../../Users/Ryan/Documents/GitHub/TheOnioning2019/TheOnioning/Saved/Chapter1_MAPAF5C125A4D80AE4943D439AE1E0CA73E.tmp' to '../../../../../../Users/Ryan/Documents/GitHub/TheOnioning2019/TheOnioning/Content/Maps/Main/Chapter1_MAP.umap'
+[2019.01.06-03.42.43:231][929]LogSlate: Window 'Sequencer' being destroyed
+[2019.01.06-03.42.43:232][929]LogSlate: Window 'Sequencer' being destroyed
+[2019.01.06-03.42.46:498][268]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.06-03.42.46:697][287]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.06-03.42.47:033][321]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.06-03.42.47:658][385]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.06-03.42.49:078][385]LogSlate: Window 'New Level' being destroyed
+[2019.01.06-03.42.49:081][385]LightingResults: New page: Lighting Build
+[2019.01.06-03.42.49:085][385]MapCheck: New page: Map Check
+[2019.01.06-03.42.49:085][385]LightingResults: New page: Lighting Build
+[2019.01.06-03.42.49:118][385]LogAIModule: Creating AISystem for world Untitled
+[2019.01.06-03.42.49:169][385]LoadErrors: New page: New Map
+[2019.01.06-03.42.51:897][711]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.06-03.42.54:937][ 64]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2019.01.06-03.42.56:507][247]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.06-03.43.07:412][519]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.06-03.43.11:621][  6]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.06-03.43.16:734][585]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.06-03.43.19:630][916]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.06-03.43.36:028][533]LogSlate: Window 'Save Level As' being destroyed
+[2019.01.06-03.43.36:193][533]LogSavePackage: Moving '../../../../../../Users/Ryan/Documents/GitHub/TheOnioning2019/TheOnioning/Saved/CutsceneTEST_MAPFB35574647F2D654FD0D328900088CAA.tmp' to '../../../../../../Users/Ryan/Documents/GitHub/TheOnioning2019/TheOnioning/Content/Maps/Testing/CutsceneTEST_MAP.umap'
+[2019.01.06-03.43.36:227][533]LogFileHelpers: Saving map 'CutsceneTEST_MAP' took 0.194
+[2019.01.06-03.43.48:170][365]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.06-03.43.52:227][838]LogSlate: Window 'Color Picker' being destroyed
+[2019.01.06-03.44.07:768][533]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight3)
+[2019.01.06-03.44.14:557][255]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight4)
+[2019.01.06-03.44.17:426][559]Cmd: DELETE
+[2019.01.06-03.44.17:426][559]Cmd: ACTOR DELETE
+[2019.01.06-03.44.17:470][559]LogEditorActor: Deleted Actor: PointLight
+[2019.01.06-03.44.17:495][559]LogEditorActor: Deleted 1 Actors (0.055 secs)
+[2019.01.06-03.44.19:101][750]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight3)
+[2019.01.06-03.44.19:718][819]Cmd: DELETE
+[2019.01.06-03.44.19:718][819]Cmd: ACTOR DELETE
+[2019.01.06-03.44.19:719][819]LogEditorActor: Deleted Actor: PointLight
+[2019.01.06-03.44.19:744][819]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2019.01.06-03.44.20:078][859]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight2)
+[2019.01.06-03.44.20:169][865]Cmd: DELETE
+[2019.01.06-03.44.20:169][865]Cmd: ACTOR DELETE
+[2019.01.06-03.44.20:170][865]LogEditorActor: Deleted Actor: PointLight
+[2019.01.06-03.44.20:195][865]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2019.01.06-03.44.23:455][240]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.06-03.44.23:523][240]LogSavePackage: Moving '../../../../../../Users/Ryan/Documents/GitHub/TheOnioning2019/TheOnioning/Saved/CutsceneTEST_MAPFC1CDAD047D5AE0473635F881AED9BCE.tmp' to '../../../../../../Users/Ryan/Documents/GitHub/TheOnioning2019/TheOnioning/Content/Maps/Testing/CutsceneTEST_MAP.umap'
+[2019.01.06-03.44.24:661][352]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.06-03.44.24:743][362]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.06-03.44.24:761][362]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.06-03.44.24:761][362]PIE: New page: PIE session: CutsceneTEST_MAP (Jan 5, 2019, 11:44:24 AM)
+[2019.01.06-03.44.24:761][362]LogPlayLevel: Creating play world package: /Game/Maps/Testing/UEDPIE_0_CutsceneTEST_MAP
+[2019.01.06-03.44.24:763][362]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001643s)
+[2019.01.06-03.44.24:763][362]LogAIModule: Creating AISystem for world CutsceneTEST_MAP
+[2019.01.06-03.44.24:763][362]LogPlayLevel: PIE: World Init took: (0.000605s)
+[2019.01.06-03.44.24:763][362]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Testing/CutsceneTEST_MAP.CutsceneTEST_MAP to /Game/Maps/Testing/UEDPIE_0_CutsceneTEST_MAP.CutsceneTEST_MAP (0.002351s)
+[2019.01.06-03.44.24:798][362]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.01.06-03.44.24:808][362]LogInit: FAudioDevice initialized.
+[2019.01.06-03.44.24:853][362]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/Blueprints/FirstPersonGameMode'
+[2019.01.06-03.44.24:853][362]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/Blueprints/FirstPersonGameMode'
+[2019.01.06-03.44.24:853][362]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/FirstPersonBP/Blueprints/FirstPersonGameMode.FirstPersonGameMode_C'
+[2019.01.06-03.44.24:853][362]LogLoad: Game class is 'GameModeBase'
+[2019.01.06-03.44.24:854][362]LogWorld: Bringing World /Game/Maps/Testing/UEDPIE_0_CutsceneTEST_MAP.CutsceneTEST_MAP up for play (max tick rate 0) at 2019.01.05-19.44.24
+[2019.01.06-03.44.24:854][362]LogWorld: Bringing up level for play took: 0.000515
+[2019.01.06-03.44.24:870][362]PIE: Play in editor start time for /Game/Maps/Testing/UEDPIE_0_CutsceneTEST_MAP 0.608
+[2019.01.06-03.44.28:712][820]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.06-03.44.28:742][820]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.06-03.44.28:767][820]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.06-03.44.28:816][825]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2019.01.06-03.44.29:786][941]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.06-03.45.42:848][508]LogAssetEditorManager: Opening Asset editor for LevelSequence /Game/Maps/Testing/TEst/TEstMaster.TEstMaster
+[2019.01.06-03.45.44:333][508]LogSlate: Window 'Master Sequence Settings' being destroyed
+[2019.01.06-03.45.48:247][838]LogEditorViewport: Clicking Background
+[2019.01.06-03.45.50:757][114]LogEditorViewport: Clicking on Actor (LMB): CineCameraActor (CineCameraActor)
+[2019.01.06-03.45.55:388][585]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.06-03.46.06:497][800]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.06-03.46.09:757][153]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.06-03.46.13:597][535]LogEditorViewport: Clicking on Actor (LMB): CineCameraActor (CineCameraActor)
+[2019.01.06-03.46.18:560][ 75]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.06-03.46.29:375][281]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.06-03.46.30:363][392]LogActorFactory: Actor Factory created Cube
+[2019.01.06-03.46.30:795][441]LogActorFactory: Actor Factory created Cube
+[2019.01.06-03.46.32:162][594]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.06-03.46.36:221][ 53]LogEditorViewport: Clicking on Actor (LMB): CineCameraActor (CineCameraActor)
+[2019.01.06-03.46.48:166][352]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.06-03.46.55:533][229]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.06-03.47.01:205][899]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.06-03.47.03:697][197]Cmd: TRANSACTION UNDO
+[2019.01.06-03.47.03:697][197]LogEditorTransaction: Undo Add Keys at Current Time
+[2019.01.06-03.47.10:911][ 34]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.06-03.47.18:822][969]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.06-03.47.40:422][546]LogEditorViewport: Clicking on Actor (LMB): CineCameraActor (CineCameraActor)
+[2019.01.06-03.47.41:515][663]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.06-03.48.19:938][ 77]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.06-03.48.26:173][805]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.06-03.48.28:734][107]LogSlate: Window 'Color Picker' being destroyed
+[2019.01.06-03.48.31:278][393]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.06-03.48.32:434][527]LogActorFactory: Actor Factory created Cube
+[2019.01.06-03.48.32:983][587]LogActorFactory: Actor Factory created Cube
+[2019.01.06-03.48.35:319][858]Cmd: DELETE
+[2019.01.06-03.48.35:319][858]Cmd: ACTOR DELETE
+[2019.01.06-03.48.35:322][858]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.01.06-03.48.35:350][858]LogEditorActor: Deleted 1 Actors (0.031 secs)
+[2019.01.06-03.48.36:235][963]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.06-03.48.36:374][978]LogActorFactory: Actor Factory created Cone
+[2019.01.06-03.48.36:952][ 46]LogActorFactory: Actor Factory created Cone
+[2019.01.06-03.48.40:130][379]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (DirectionalLight)
+[2019.01.06-03.48.40:865][448]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.06-03.48.45:568][  6]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.06-03.49.11:503][ 72]LogEditorViewport: Clicking on Actor (LMB): CineCameraActor (CineCameraActor2)
+[2019.01.06-03.49.18:361][826]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.06-03.49.28:793][ 13]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.06-03.49.35:711][827]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.06-03.49.44:460][838]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.06-03.50.03:232][ 59]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.06-03.50.07:972][625]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (DirectionalLight)
+[2019.01.06-03.50.11:805][ 72]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.06-03.50.52:528][889]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.06-03.50.55:027][186]LogEditorViewport: Clicking on Actor (LMB): CineCameraActor (CineCameraActor2)
+[2019.01.06-03.50.56:461][342]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.06-03.52.00:999][680]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.06-03.52.18:204][601]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.06-03.52.23:844][204]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.06-03.52.36:855][684]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.06-03.52.41:379][206]LogEditorViewport: Clicking on Actor (LMB): CineCameraActor (CineCameraActor)
+[2019.01.06-03.52.43:328][394]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.06-03.52.54:590][691]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.06-03.54.27:381][712]LogSavePackage: Moving '../../../../../../Users/Ryan/Documents/GitHub/TheOnioning2019/TheOnioning/Saved/CutsceneTEST_MAP_Auto29911026C46340B145C437DB53AB62F9F.tmp' to '../../../../../../Users/Ryan/Documents/GitHub/TheOnioning2019/TheOnioning/Saved/Autosaves/Game/Maps/Testing/CutsceneTEST_MAP_Auto2.umap'
+[2019.01.06-03.54.27:385][712]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Testing/CutsceneTEST_MAP' took 0.123
+[2019.01.06-03.54.27:385][712]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.123
+[2019.01.06-03.54.27:388][712]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Cinematics/Chapter1/OpeningCutscene_LM] ([1] browsable assets)...
+[2019.01.06-03.54.27:388][712]OBJ SavePackage: Finished generating thumbnails for package [/Game/Cinematics/Chapter1/OpeningCutscene_LM]
+[2019.01.06-03.54.27:395][712]LogSavePackage: Moving '../../../../../../Users/Ryan/Documents/GitHub/TheOnioning2019/TheOnioning/Saved/OpeningCutscene_LM_Auto27416273045E6642835E292AC9138397A.tmp' to '../../../../../../Users/Ryan/Documents/GitHub/TheOnioning2019/TheOnioning/Saved/Autosaves/Game/Cinematics/Chapter1/OpeningCutscene_LM_Auto2.uasset'
+[2019.01.06-03.54.27:397][712]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Maps/Testing/TEst/TEstMaster] ([1] browsable assets)...
+[2019.01.06-03.54.27:397][712]OBJ SavePackage: Finished generating thumbnails for package [/Game/Maps/Testing/TEst/TEstMaster]
+[2019.01.06-03.54.27:413][712]LogSavePackage: Moving '../../../../../../Users/Ryan/Documents/GitHub/TheOnioning2019/TheOnioning/Saved/TEstMaster_Auto2F4DEBE894DC453A6BDFDDEB3D133D7E0.tmp' to '../../../../../../Users/Ryan/Documents/GitHub/TheOnioning2019/TheOnioning/Saved/Autosaves/Game/Maps/Testing/TEst/TEstMaster_Auto2.uasset'
+[2019.01.06-03.54.27:415][712]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Maps/Testing/TEst/shots/shot0010/shot0010_001] ([1] browsable assets)...
+[2019.01.06-03.54.27:415][712]OBJ SavePackage: Finished generating thumbnails for package [/Game/Maps/Testing/TEst/shots/shot0010/shot0010_001]
+[2019.01.06-03.54.27:447][712]LogSavePackage: Moving '../../../../../../Users/Ryan/Documents/GitHub/TheOnioning2019/TheOnioning/Saved/shot0010_001_Auto2334C370C4B48AC0706215A9F599CEF88.tmp' to '../../../../../../Users/Ryan/Documents/GitHub/TheOnioning2019/TheOnioning/Saved/Autosaves/Game/Maps/Testing/TEst/shots/shot0010/shot0010_001_Auto2.uasset'
+[2019.01.06-03.54.27:450][712]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Maps/Testing/TEst/shots/shot0020/shot0020_001] ([1] browsable assets)...
+[2019.01.06-03.54.27:450][712]OBJ SavePackage: Finished generating thumbnails for package [/Game/Maps/Testing/TEst/shots/shot0020/shot0020_001]
+[2019.01.06-03.54.27:475][712]LogSavePackage: Moving '../../../../../../Users/Ryan/Documents/GitHub/TheOnioning2019/TheOnioning/Saved/shot0020_001_Auto23032E5364C5B1A335CE291B110C28E84.tmp' to '../../../../../../Users/Ryan/Documents/GitHub/TheOnioning2019/TheOnioning/Saved/Autosaves/Game/Maps/Testing/TEst/shots/shot0020/shot0020_001_Auto2.uasset'
+[2019.01.06-03.54.27:478][712]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Maps/Testing/TEst/shots/shot0030/shot0030_001] ([1] browsable assets)...
+[2019.01.06-03.54.27:478][712]OBJ SavePackage: Finished generating thumbnails for package [/Game/Maps/Testing/TEst/shots/shot0030/shot0030_001]
+[2019.01.06-03.54.27:493][712]LogSavePackage: Moving '../../../../../../Users/Ryan/Documents/GitHub/TheOnioning2019/TheOnioning/Saved/shot0030_001_Auto2F03E3D864273AFEFF07F158990826323.tmp' to '../../../../../../Users/Ryan/Documents/GitHub/TheOnioning2019/TheOnioning/Saved/Autosaves/Game/Maps/Testing/TEst/shots/shot0030/shot0030_001_Auto2.uasset'
+[2019.01.06-03.54.27:496][712]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Maps/Testing/TEst/shots/shot0040/shot0040_001] ([1] browsable assets)...
+[2019.01.06-03.54.27:496][712]OBJ SavePackage: Finished generating thumbnails for package [/Game/Maps/Testing/TEst/shots/shot0040/shot0040_001]
+[2019.01.06-03.54.27:510][712]LogSavePackage: Moving '../../../../../../Users/Ryan/Documents/GitHub/TheOnioning2019/TheOnioning/Saved/shot0040_001_Auto2DF36A37847629CC63CF00DA372C68B32.tmp' to '../../../../../../Users/Ryan/Documents/GitHub/TheOnioning2019/TheOnioning/Saved/Autosaves/Game/Maps/Testing/TEst/shots/shot0040/shot0040_001_Auto2.uasset'
+[2019.01.06-03.54.27:513][712]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Maps/Testing/TEst/shots/shot0050/shot0050_001] ([1] browsable assets)...
+[2019.01.06-03.54.27:513][712]OBJ SavePackage: Finished generating thumbnails for package [/Game/Maps/Testing/TEst/shots/shot0050/shot0050_001]
+[2019.01.06-03.54.27:527][712]LogSavePackage: Moving '../../../../../../Users/Ryan/Documents/GitHub/TheOnioning2019/TheOnioning/Saved/shot0050_001_Auto2A7EB5AC746D456D4CE3E4A99247B564A.tmp' to '../../../../../../Users/Ryan/Documents/GitHub/TheOnioning2019/TheOnioning/Saved/Autosaves/Game/Maps/Testing/TEst/shots/shot0050/shot0050_001_Auto2.uasset'
+[2019.01.06-03.54.27:530][712]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Maps/Testing/TEst/shots/shot0060/shot0060_001] ([1] browsable assets)...
+[2019.01.06-03.54.27:530][712]OBJ SavePackage: Finished generating thumbnails for package [/Game/Maps/Testing/TEst/shots/shot0060/shot0060_001]
+[2019.01.06-03.54.27:545][712]LogSavePackage: Moving '../../../../../../Users/Ryan/Documents/GitHub/TheOnioning2019/TheOnioning/Saved/shot0060_001_Auto2D63F373347AB73CE1FEDD795309C4866.tmp' to '../../../../../../Users/Ryan/Documents/GitHub/TheOnioning2019/TheOnioning/Saved/Autosaves/Game/Maps/Testing/TEst/shots/shot0060/shot0060_001_Auto2.uasset'
+[2019.01.06-03.54.27:548][712]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Maps/Testing/TEst/shots/shot0070/shot0070_001] ([1] browsable assets)...
+[2019.01.06-03.54.27:548][712]OBJ SavePackage: Finished generating thumbnails for package [/Game/Maps/Testing/TEst/shots/shot0070/shot0070_001]
+[2019.01.06-03.54.27:562][712]LogSavePackage: Moving '../../../../../../Users/Ryan/Documents/GitHub/TheOnioning2019/TheOnioning/Saved/shot0070_001_Auto2F7BB43C942BD0F2C55356396CD3EEA93.tmp' to '../../../../../../Users/Ryan/Documents/GitHub/TheOnioning2019/TheOnioning/Saved/Autosaves/Game/Maps/Testing/TEst/shots/shot0070/shot0070_001_Auto2.uasset'
+[2019.01.06-03.54.27:565][712]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Maps/Testing/TEst/shots/shot0080/shot0080_001] ([1] browsable assets)...
+[2019.01.06-03.54.27:565][712]OBJ SavePackage: Finished generating thumbnails for package [/Game/Maps/Testing/TEst/shots/shot0080/shot0080_001]
+[2019.01.06-03.54.27:579][712]LogSavePackage: Moving '../../../../../../Users/Ryan/Documents/GitHub/TheOnioning2019/TheOnioning/Saved/shot0080_001_Auto216A596814AEADE898F4BE89455B1F2D4.tmp' to '../../../../../../Users/Ryan/Documents/GitHub/TheOnioning2019/TheOnioning/Saved/Autosaves/Game/Maps/Testing/TEst/shots/shot0080/shot0080_001_Auto2.uasset'
+[2019.01.06-03.54.27:582][712]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Maps/Testing/TEst/shots/shot0090/shot0090_001] ([1] browsable assets)...
+[2019.01.06-03.54.27:582][712]OBJ SavePackage: Finished generating thumbnails for package [/Game/Maps/Testing/TEst/shots/shot0090/shot0090_001]
+[2019.01.06-03.54.27:598][712]LogSavePackage: Moving '../../../../../../Users/Ryan/Documents/GitHub/TheOnioning2019/TheOnioning/Saved/shot0090_001_Auto2570E711B4E39E141B85EA9B90422DC18.tmp' to '../../../../../../Users/Ryan/Documents/GitHub/TheOnioning2019/TheOnioning/Saved/Autosaves/Game/Maps/Testing/TEst/shots/shot0090/shot0090_001_Auto2.uasset'
+[2019.01.06-03.54.27:601][712]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Maps/Testing/TEst/shots/shot0100/shot0100_001] ([1] browsable assets)...
+[2019.01.06-03.54.27:601][712]OBJ SavePackage: Finished generating thumbnails for package [/Game/Maps/Testing/TEst/shots/shot0100/shot0100_001]
+[2019.01.06-03.54.27:615][712]LogSavePackage: Moving '../../../../../../Users/Ryan/Documents/GitHub/TheOnioning2019/TheOnioning/Saved/shot0100_001_Auto2D5D638FE4C5FDC5010FEC3B5659689A5.tmp' to '../../../../../../Users/Ryan/Documents/GitHub/TheOnioning2019/TheOnioning/Saved/Autosaves/Game/Maps/Testing/TEst/shots/shot0100/shot0100_001_Auto2.uasset'
+[2019.01.06-03.54.27:618][712]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Maps/Testing/TEst/shots/shot0110/shot0110_001] ([1] browsable assets)...
+[2019.01.06-03.54.27:618][712]OBJ SavePackage: Finished generating thumbnails for package [/Game/Maps/Testing/TEst/shots/shot0110/shot0110_001]
+[2019.01.06-03.54.27:632][712]LogSavePackage: Moving '../../../../../../Users/Ryan/Documents/GitHub/TheOnioning2019/TheOnioning/Saved/shot0110_001_Auto259FFDF9A41499EC4A9B404BEB7B7E1C2.tmp' to '../../../../../../Users/Ryan/Documents/GitHub/TheOnioning2019/TheOnioning/Saved/Autosaves/Game/Maps/Testing/TEst/shots/shot0110/shot0110_001_Auto2.uasset'
+[2019.01.06-03.54.27:635][712]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Maps/Testing/TEst/shots/shot0120/shot0120_001] ([1] browsable assets)...
+[2019.01.06-03.54.27:635][712]OBJ SavePackage: Finished generating thumbnails for package [/Game/Maps/Testing/TEst/shots/shot0120/shot0120_001]
+[2019.01.06-03.54.27:650][712]LogSavePackage: Moving '../../../../../../Users/Ryan/Documents/GitHub/TheOnioning2019/TheOnioning/Saved/shot0120_001_Auto23E80CB2C418E69AF51767D8B90EEED6F.tmp' to '../../../../../../Users/Ryan/Documents/GitHub/TheOnioning2019/TheOnioning/Saved/Autosaves/Game/Maps/Testing/TEst/shots/shot0120/shot0120_001_Auto2.uasset'
+[2019.01.06-03.54.27:652][712]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Maps/Testing/TEst/shots/shot0130/shot0130_001] ([1] browsable assets)...
+[2019.01.06-03.54.27:652][712]OBJ SavePackage: Finished generating thumbnails for package [/Game/Maps/Testing/TEst/shots/shot0130/shot0130_001]
+[2019.01.06-03.54.27:667][712]LogSavePackage: Moving '../../../../../../Users/Ryan/Documents/GitHub/TheOnioning2019/TheOnioning/Saved/shot0130_001_Auto2A4236B4E441CF78686F95E9793E22E9C.tmp' to '../../../../../../Users/Ryan/Documents/GitHub/TheOnioning2019/TheOnioning/Saved/Autosaves/Game/Maps/Testing/TEst/shots/shot0130/shot0130_001_Auto2.uasset'
+[2019.01.06-03.54.27:669][712]LogFileHelpers: Auto-saving content packages took 0.282
+[2019.01.06-03.54.39:117][ 53]LogEditorViewport: Clicking on Actor (LMB): CineCameraActor (CineCameraActor5)
+[2019.01.06-03.54.48:158][981]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.06-03.55.04:368][858]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.06-03.55.17:938][465]LogEditorViewport: Clicking on Actor (LMB): Moe_BB_C (Moe_BB)
+[2019.01.06-03.55.19:148][600]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.06-03.55.45:304][685]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.06-03.55.52:054][490]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.06-03.56.02:164][695]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.06-03.56.09:539][575]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.06-03.56.17:168][481]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.06-03.56.25:529][476]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.06-03.56.30:634][ 79]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.06-03.56.49:262][272]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.06-03.56.59:933][540]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.06-03.57.06:876][366]Cmd: TRANSACTION UNDO
+[2019.01.06-03.57.06:876][366]LogEditorTransaction: Undo Rotate Actors
+[2019.01.06-03.57.09:246][628]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.06-03.57.16:628][503]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.06-03.57.29:141][933]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.06-03.57.38:140][  1]LogEditorViewport: Clicking on Component (LMB): CineCameraComponent (CameraComponent)
+[2019.01.06-03.57.43:689][663]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.06-03.57.45:027][820]LogEditorViewport: Clicking on Component (LMB): CineCameraComponent (CameraComponent)
+[2019.01.06-03.57.45:115][828]LogEditorViewport: Clicking on Actor (double click): CineCameraActor (CineCameraActor5)
+[2019.01.06-03.57.47:599][111]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.06-03.58.07:200][411]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.06-03.58.07:303][422]Cmd: MODE ROTGRID=0
+[2019.01.06-03.58.12:530][ 37]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.06-03.58.22:324][194]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.06-03.58.31:452][270]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.06-03.58.38:095][ 55]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.06-03.58.45:571][935]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.06-03.58.53:252][846]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.06-03.59.14:159][331]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.06-04.01.32:560][777]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.06-04.02.29:626][229]LogSlate: Window 'Save Content' being destroyed
+[2019.01.06-04.02.29:669][229]LogSavePackage: Moving '../../../../../../Users/Ryan/Documents/GitHub/TheOnioning2019/TheOnioning/Saved/shot0010_0012D7E5D784F3599AAF1FECB8552247274.tmp' to '../../../../../../Users/Ryan/Documents/GitHub/TheOnioning2019/TheOnioning/Content/Maps/Testing/TEst/shots/shot0010/shot0010_001.uasset'
+[2019.01.06-04.02.29:705][229]LogSavePackage: Moving '../../../../../../Users/Ryan/Documents/GitHub/TheOnioning2019/TheOnioning/Saved/shot0020_001856DFA184F73EF1063E73385EBB4EF60.tmp' to '../../../../../../Users/Ryan/Documents/GitHub/TheOnioning2019/TheOnioning/Content/Maps/Testing/TEst/shots/shot0020/shot0020_001.uasset'
+[2019.01.06-04.02.29:776][229]LogSavePackage: Moving '../../../../../../Users/Ryan/Documents/GitHub/TheOnioning2019/TheOnioning/Saved/shot0030_001096549C249E7B739A7AF2188082AEDE5.tmp' to '../../../../../../Users/Ryan/Documents/GitHub/TheOnioning2019/TheOnioning/Content/Maps/Testing/TEst/shots/shot0030/shot0030_001.uasset'
+[2019.01.06-04.02.29:801][229]LogSavePackage: Moving '../../../../../../Users/Ryan/Documents/GitHub/TheOnioning2019/TheOnioning/Saved/shot0040_0011F7C120047C58151B6AE28BC03CF8775.tmp' to '../../../../../../Users/Ryan/Documents/GitHub/TheOnioning2019/TheOnioning/Content/Maps/Testing/TEst/shots/shot0040/shot0040_001.uasset'
+[2019.01.06-04.02.29:827][229]LogSavePackage: Moving '../../../../../../Users/Ryan/Documents/GitHub/TheOnioning2019/TheOnioning/Saved/shot0050_001674B1DF74DB45500393B9E9924ADE163.tmp' to '../../../../../../Users/Ryan/Documents/GitHub/TheOnioning2019/TheOnioning/Content/Maps/Testing/TEst/shots/shot0050/shot0050_001.uasset'
+[2019.01.06-04.02.29:853][229]LogSavePackage: Moving '../../../../../../Users/Ryan/Documents/GitHub/TheOnioning2019/TheOnioning/Saved/shot0060_001A261127E443F965A48AB4CA0E3FCA3BE.tmp' to '../../../../../../Users/Ryan/Documents/GitHub/TheOnioning2019/TheOnioning/Content/Maps/Testing/TEst/shots/shot0060/shot0060_001.uasset'
+[2019.01.06-04.02.29:879][229]LogSavePackage: Moving '../../../../../../Users/Ryan/Documents/GitHub/TheOnioning2019/TheOnioning/Saved/shot0070_0017A5B401A4127D84A9FDE45952A49C1B4.tmp' to '../../../../../../Users/Ryan/Documents/GitHub/TheOnioning2019/TheOnioning/Content/Maps/Testing/TEst/shots/shot0070/shot0070_001.uasset'
+[2019.01.06-04.02.29:904][229]LogSavePackage: Moving '../../../../../../Users/Ryan/Documents/GitHub/TheOnioning2019/TheOnioning/Saved/shot0080_0010D66DDCC4FE69BA1D00455B884AEA4DC.tmp' to '../../../../../../Users/Ryan/Documents/GitHub/TheOnioning2019/TheOnioning/Content/Maps/Testing/TEst/shots/shot0080/shot0080_001.uasset'
+[2019.01.06-04.02.29:931][229]LogSavePackage: Moving '../../../../../../Users/Ryan/Documents/GitHub/TheOnioning2019/TheOnioning/Saved/shot0090_0010AA70F5242ED197B0954718D999899BF.tmp' to '../../../../../../Users/Ryan/Documents/GitHub/TheOnioning2019/TheOnioning/Content/Maps/Testing/TEst/shots/shot0090/shot0090_001.uasset'
+[2019.01.06-04.02.29:956][229]LogSavePackage: Moving '../../../../../../Users/Ryan/Documents/GitHub/TheOnioning2019/TheOnioning/Saved/shot0100_001A9DABB304592B1720EE147B4E7AA8332.tmp' to '../../../../../../Users/Ryan/Documents/GitHub/TheOnioning2019/TheOnioning/Content/Maps/Testing/TEst/shots/shot0100/shot0100_001.uasset'
+[2019.01.06-04.02.29:982][229]LogSavePackage: Moving '../../../../../../Users/Ryan/Documents/GitHub/TheOnioning2019/TheOnioning/Saved/shot0110_0015EDC69224E3B6675403B05800547DA20.tmp' to '../../../../../../Users/Ryan/Documents/GitHub/TheOnioning2019/TheOnioning/Content/Maps/Testing/TEst/shots/shot0110/shot0110_001.uasset'
+[2019.01.06-04.02.30:006][229]LogSavePackage: Moving '../../../../../../Users/Ryan/Documents/GitHub/TheOnioning2019/TheOnioning/Saved/shot0120_001870F952E4FA39A67969C209AACFD3B91.tmp' to '../../../../../../Users/Ryan/Documents/GitHub/TheOnioning2019/TheOnioning/Content/Maps/Testing/TEst/shots/shot0120/shot0120_001.uasset'
+[2019.01.06-04.02.30:032][229]LogSavePackage: Moving '../../../../../../Users/Ryan/Documents/GitHub/TheOnioning2019/TheOnioning/Saved/shot0130_001D631AFF04758704CB52E5C94321B1B7A.tmp' to '../../../../../../Users/Ryan/Documents/GitHub/TheOnioning2019/TheOnioning/Content/Maps/Testing/TEst/shots/shot0130/shot0130_001.uasset'
+[2019.01.06-04.02.30:040][229]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Testing/TEst/TEstMaster" FILE="../../../../../../Users/Ryan/Documents/GitHub/TheOnioning2019/TheOnioning/Content/Maps/Testing/TEst/TEstMaster.uasset" SILENT=true
+[2019.01.06-04.02.30:057][229]LogSavePackage: Moving '../../../../../../Users/Ryan/Documents/GitHub/TheOnioning2019/TheOnioning/Saved/TEstMaster1D4002ED4316C7A8C752069EC408FA96.tmp' to '../../../../../../Users/Ryan/Documents/GitHub/TheOnioning2019/TheOnioning/Content/Maps/Testing/TEst/TEstMaster.uasset'
+[2019.01.06-04.02.50:868][667]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.06-04.02.59:529][641]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.06-04.03.01:505][873]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.06-04.03.14:593][431]LogEditorViewport: Clicking on Actor (LMB): CineCameraActor (CineCameraActor5)
+[2019.01.06-04.03.16:381][632]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TextRenderActor)
+[2019.01.06-04.03.20:093][ 62]LogEditorViewport: Clicking on Actor (LMB): CineCameraActor (CineCameraActor5)
+[2019.01.06-04.03.21:885][263]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TextRenderActor)
+[2019.01.06-04.03.22:779][360]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.06-04.03.25:490][678]LogEditorViewport: Clicking on Actor (LMB): CineCameraActor (CineCameraActor5)
+[2019.01.06-04.03.27:600][917]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TextRenderActor)
+[2019.01.06-04.03.34:868][774]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.06-04.04.06:519][516]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.06-04.04.08:495][750]LogEditorViewport: Clicking on Actor (LMB): CineCameraActor (CineCameraActor5)
+[2019.01.06-04.04.11:625][106]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.06-04.04.47:653][301]LogSavePackage: Moving '../../../../../../Users/Ryan/Documents/GitHub/TheOnioning2019/TheOnioning/Saved/CutsceneTEST_MAP_Auto32B8181384F78ACCB38E60D94CA326B39.tmp' to '../../../../../../Users/Ryan/Documents/GitHub/TheOnioning2019/TheOnioning/Saved/Autosaves/Game/Maps/Testing/CutsceneTEST_MAP_Auto3.umap'
+[2019.01.06-04.04.47:658][301]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Testing/CutsceneTEST_MAP' took 0.079
+[2019.01.06-04.04.47:658][301]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.079
+[2019.01.06-04.04.47:660][301]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Maps/Testing/TEst/shots/shot0030/shot0030_001] ([1] browsable assets)...
+[2019.01.06-04.04.47:660][301]OBJ SavePackage: Finished generating thumbnails for package [/Game/Maps/Testing/TEst/shots/shot0030/shot0030_001]
+[2019.01.06-04.04.47:723][301]LogSavePackage: Moving '../../../../../../Users/Ryan/Documents/GitHub/TheOnioning2019/TheOnioning/Saved/shot0030_001_Auto3143580994905BE1DBB81A694DA07AF38.tmp' to '../../../../../../Users/Ryan/Documents/GitHub/TheOnioning2019/TheOnioning/Saved/Autosaves/Game/Maps/Testing/TEst/shots/shot0030/shot0030_001_Auto3.uasset'
+[2019.01.06-04.04.47:725][301]LogFileHelpers: Auto-saving content packages took 0.066
+[2019.01.06-04.04.55:546][231]LogEditorViewport: Clicking on Actor (LMB): CineCameraActor (CineCameraActor5)
+[2019.01.06-04.04.56:840][371]LogEditorViewport: Clicking on Actor (LMB): Moe_BB_C (Moe_BB)
+[2019.01.06-04.05.04:884][326]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.06-04.05.11:603][126]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.06-04.05.25:454][780]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.06-04.05.32:550][620]LogEditorViewport: Clicking on Actor (LMB): CineCameraActor (CineCameraActor5)
+[2019.01.06-04.05.36:858][114]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.06-04.06.27:793][103]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.06-04.06.30:766][419]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.06-04.06.36:650][ 77]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.06-04.06.42:258][738]LogEditorViewport: Clicking Background
+[2019.01.06-04.06.43:853][926]LogEditorViewport: Clicking Background
+[2019.01.06-04.06.44:595][ 14]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.06-04.06.45:953][175]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight)
+[2019.01.06-04.06.51:388][811]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.06-04.06.57:711][530]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.06-04.07.00:430][831]LogSlate: Window 'Color Picker' being destroyed
+[2019.01.06-04.07.01:121][910]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.06-04.07.16:861][753]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.06-04.08.36:842][172]LogEditorViewport: Clicking on Actor (LMB): CineCameraActor (CineCameraActor5)
+[2019.01.06-04.08.38:799][380]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.06-04.09.36:117][898]LogSavePackage: Moving '../../../../../../Users/Ryan/Documents/GitHub/TheOnioning2019/TheOnioning/Saved/shot0030_00138EFA3574B03CD6F1BDEC9B2BB3B1849.tmp' to '../../../../../../Users/Ryan/Documents/GitHub/TheOnioning2019/TheOnioning/Content/Maps/Testing/TEst/shots/shot0030/shot0030_001.uasset'
+[2019.01.06-04.09.38:647][186]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.06-04.09.38:825][206]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.06-04.09.39:000][206]LogSlate: Window 'Sequencer' being destroyed
+[2019.01.06-04.09.39:001][206]LogSlate: Window 'Sequencer' being destroyed
+[2019.01.06-04.09.40:693][407]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.06-04.09.40:760][407]LogSavePackage: Moving '../../../../../../Users/Ryan/Documents/GitHub/TheOnioning2019/TheOnioning/Saved/CutsceneTEST_MAPC91CC18544D64709CA46AF8CCAF4E1E3.tmp' to '../../../../../../Users/Ryan/Documents/GitHub/TheOnioning2019/TheOnioning/Content/Maps/Testing/CutsceneTEST_MAP.umap'
+[2019.01.06-04.09.44:335][826]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.06-04.09.55:373][139]LogAssetEditorManager: Opening Asset editor for LevelSequence /Game/Maps/Testing/TEst/TEstMaster.TEstMaster
+[2019.01.06-04.10.05:582][209]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.06-04.10.22:608][872]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.06-04.10.26:021][271]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Testing/TEst/TEstMaster" FILE="../../../../../../Users/Ryan/Documents/GitHub/TheOnioning2019/TheOnioning/Content/Maps/Testing/TEst/TEstMaster.uasset" SILENT=true
+[2019.01.06-04.10.26:065][271]LogSavePackage: Moving '../../../../../../Users/Ryan/Documents/GitHub/TheOnioning2019/TheOnioning/Saved/TEstMasterA81FFD30416729AFC8B1B9BC28ADF280.tmp' to '../../../../../../Users/Ryan/Documents/GitHub/TheOnioning2019/TheOnioning/Content/Maps/Testing/TEst/TEstMaster.uasset'
+[2019.01.06-04.10.27:814][480]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.06-04.10.48:150][888]LogEditorViewport: Clicking Background
+[2019.01.06-04.10.50:616][165]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.06-04.10.54:220][552]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.06-04.10.57:826][941]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.06-04.10.57:926][953]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.06-04.10.57:944][953]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.06-04.10.57:944][953]PIE: New page: PIE session: CutsceneTEST_MAP (Jan 5, 2019, 12:10:57 PM)
+[2019.01.06-04.10.57:944][953]LogPlayLevel: Creating play world package: /Game/Maps/Testing/UEDPIE_0_CutsceneTEST_MAP
+[2019.01.06-04.10.57:960][953]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015906s)
+[2019.01.06-04.10.57:961][953]LogAIModule: Creating AISystem for world CutsceneTEST_MAP
+[2019.01.06-04.10.57:961][953]LogPlayLevel: PIE: World Init took: (0.000674s)
+[2019.01.06-04.10.57:961][953]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Testing/CutsceneTEST_MAP.CutsceneTEST_MAP to /Game/Maps/Testing/UEDPIE_0_CutsceneTEST_MAP.CutsceneTEST_MAP (0.016686s)
+[2019.01.06-04.10.57:997][953]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.01.06-04.10.58:008][953]LogInit: FAudioDevice initialized.
+[2019.01.06-04.10.58:041][953]LogLoad: Game class is 'GameModeBase'
+[2019.01.06-04.10.58:042][953]LogWorld: Bringing World /Game/Maps/Testing/UEDPIE_0_CutsceneTEST_MAP.CutsceneTEST_MAP up for play (max tick rate 0) at 2019.01.05-20.10.58
+[2019.01.06-04.10.58:043][953]LogWorld: Bringing up level for play took: 0.001145
+[2019.01.06-04.10.58:056][953]PIE: Play in editor start time for /Game/Maps/Testing/UEDPIE_0_CutsceneTEST_MAP -0.206
+[2019.01.06-04.10.59:784][157]Cmd: LevelEditor.ToggleImmersive
+[2019.01.06-04.10.59:960][160]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.06-04.11.14:724][928]Cmd: LevelEditor.ToggleImmersive
+[2019.01.06-04.11.14:939][935]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.06-04.11.16:224][ 89]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.06-04.11.16:257][ 89]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.06-04.11.16:283][ 89]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.06-04.11.16:324][ 91]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2019.01.06-04.11.19:744][465]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.06-04.11.38:205][656]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight)
+[2019.01.06-04.11.39:233][774]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.06-04.11.40:163][884]LogEditorViewport: Clicking Background
+[2019.01.06-04.11.42:527][165]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight)
+[2019.01.06-04.11.45:121][471]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.06-04.11.46:858][678]LogEditorViewport: Clicking Background
+[2019.01.06-04.11.50:816][144]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight)
+[2019.01.06-04.11.51:876][266]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.06-04.11.54:607][578]LogEditorViewport: Clicking Background
+[2019.01.06-04.11.56:385][767]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.06-04.11.56:476][778]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.06-04.11.56:494][778]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.06-04.11.56:494][778]PIE: New page: PIE session: CutsceneTEST_MAP (Jan 5, 2019, 12:11:56 PM)
+[2019.01.06-04.11.56:494][778]LogPlayLevel: Creating play world package: /Game/Maps/Testing/UEDPIE_0_CutsceneTEST_MAP
+[2019.01.06-04.11.56:497][778]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002158s)
+[2019.01.06-04.11.56:497][778]LogAIModule: Creating AISystem for world CutsceneTEST_MAP
+[2019.01.06-04.11.56:497][778]LogPlayLevel: PIE: World Init took: (0.000610s)
+[2019.01.06-04.11.56:497][778]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Testing/CutsceneTEST_MAP.CutsceneTEST_MAP to /Game/Maps/Testing/UEDPIE_0_CutsceneTEST_MAP.CutsceneTEST_MAP (0.002869s)
+[2019.01.06-04.11.56:533][778]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.01.06-04.11.56:543][778]LogInit: FAudioDevice initialized.
+[2019.01.06-04.11.56:578][778]LogLoad: Game class is 'GameModeBase'
+[2019.01.06-04.11.56:579][778]LogWorld: Bringing World /Game/Maps/Testing/UEDPIE_0_CutsceneTEST_MAP.CutsceneTEST_MAP up for play (max tick rate 0) at 2019.01.05-20.11.56
+[2019.01.06-04.11.56:580][778]LogWorld: Bringing up level for play took: 0.000984
+[2019.01.06-04.11.56:592][778]PIE: Play in editor start time for /Game/Maps/Testing/UEDPIE_0_CutsceneTEST_MAP 0.33
+[2019.01.06-04.12.03:213][572]Cmd: LevelEditor.ToggleImmersive
+[2019.01.06-04.12.03:397][577]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.06-04.14.39:385][291]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.06-04.14.39:448][291]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.06-04.14.39:474][291]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.06-04.14.39:500][292]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2019.01.06-04.14.40:384][372]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.06-04.14.46:307][ 73]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.06-04.14.51:711][714]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.06-04.14.55:784][200]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2019.01.06-04.14.56:963][339]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.06-04.14.57:071][352]Cmd: MODE ROTGRID=1
+[2019.01.06-04.14.59:733][667]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.06-04.14.59:901][676]LogSavePackage: Moving '../../../../../../Users/Ryan/Documents/GitHub/TheOnioning2019/TheOnioning/Saved/CutsceneTEST_MAP9652924B48A4D346109A8D80071A5378.tmp' to '../../../../../../Users/Ryan/Documents/GitHub/TheOnioning2019/TheOnioning/Content/Maps/Testing/CutsceneTEST_MAP.umap'
+[2019.01.06-04.15.01:736][891]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.06-04.15.01:754][891]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.06-04.15.01:754][891]PIE: New page: PIE session: CutsceneTEST_MAP (Jan 5, 2019, 12:15:01 PM)
+[2019.01.06-04.15.01:754][891]LogPlayLevel: Creating play world package: /Game/Maps/Testing/UEDPIE_0_CutsceneTEST_MAP
+[2019.01.06-04.15.01:757][891]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002228s)
+[2019.01.06-04.15.01:757][891]LogAIModule: Creating AISystem for world CutsceneTEST_MAP
+[2019.01.06-04.15.01:757][891]LogPlayLevel: PIE: World Init took: (0.000607s)
+[2019.01.06-04.15.01:757][891]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Testing/CutsceneTEST_MAP.CutsceneTEST_MAP to /Game/Maps/Testing/UEDPIE_0_CutsceneTEST_MAP.CutsceneTEST_MAP (0.002934s)
+[2019.01.06-04.15.01:792][891]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.01.06-04.15.01:802][891]LogInit: FAudioDevice initialized.
+[2019.01.06-04.15.01:835][891]LogLoad: Game class is 'GameModeBase'
+[2019.01.06-04.15.01:836][891]LogWorld: Bringing World /Game/Maps/Testing/UEDPIE_0_CutsceneTEST_MAP.CutsceneTEST_MAP up for play (max tick rate 0) at 2019.01.05-20.15.01
+[2019.01.06-04.15.01:837][891]LogWorld: Bringing up level for play took: 0.001032
+[2019.01.06-04.15.01:860][891]PIE: Play in editor start time for /Game/Maps/Testing/UEDPIE_0_CutsceneTEST_MAP -0.401
+[2019.01.06-04.15.13:169][207]LogPackageName: SearchForPackageOnDisk took   0.203s, but failed to resolve c.umap.
+[2019.01.06-04.15.13:170][207]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.06-04.15.13:357][207]LogPackageName: SearchForPackageOnDisk took   0.187s, but failed to resolve c.umap.
+[2019.01.06-04.15.13:383][207]LogNet: Browse: /Game/Maps/Main/MainMenu_MAP
+[2019.01.06-04.15.13:383][207]LogNet: Warning: Travel Failure: [InvalidURL]: Invalid URL: /Game/Maps/Main/MainMenu_MAP
+[2019.01.06-04.15.13:383][207]LogNet: Warning: TravelFailure: InvalidURL, Reason for Failure: 'Invalid URL: /Game/Maps/Main/MainMenu_MAP'. Shutting down PIE.
+[2019.01.06-04.15.13:384][207]PIE: Warning: TravelFailure: InvalidURL, Reason for Failure: 'Invalid URL: /Game/Maps/Main/MainMenu_MAP'. Shutting down PIE.
+[2019.01.06-04.15.13:384][207]LogNet: Warning: Travel Failure: [ClientTravelFailure]: Invalid URL: /Game/Maps/Main/MainMenu_MAP
+[2019.01.06-04.15.13:384][207]LogNet: Warning: TravelFailure: ClientTravelFailure, Reason for Failure: 'Invalid URL: /Game/Maps/Main/MainMenu_MAP'. Shutting down PIE.
+[2019.01.06-04.15.13:384][207]PIE: Warning: TravelFailure: ClientTravelFailure, Reason for Failure: 'Invalid URL: /Game/Maps/Main/MainMenu_MAP'. Shutting down PIE.
+[2019.01.06-04.15.13:385][207]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.06-04.15.13:415][207]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.06-04.15.13:441][207]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.06-04.15.13:479][208]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2019.01.06-04.15.15:400][436]LogEditorViewport: Clicking Background
+[2019.01.06-04.15.16:323][546]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.06-04.15.21:668][182]LogSlate: Window 'Message Log' being destroyed
+[2019.01.06-04.15.21:671][182]LogSlate: Window 'Message Log' being destroyed
+[2019.01.06-04.15.22:164][241]LogEditorViewport: Clicking Background
+[2019.01.06-04.15.23:021][343]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.06-04.15.23:120][355]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.06-04.15.23:138][355]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.06-04.15.23:138][355]PIE: New page: PIE session: CutsceneTEST_MAP (Jan 5, 2019, 12:15:23 PM)
+[2019.01.06-04.15.23:138][355]LogPlayLevel: Creating play world package: /Game/Maps/Testing/UEDPIE_0_CutsceneTEST_MAP
+[2019.01.06-04.15.23:141][355]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002243s)
+[2019.01.06-04.15.23:141][355]LogAIModule: Creating AISystem for world CutsceneTEST_MAP
+[2019.01.06-04.15.23:141][355]LogPlayLevel: PIE: World Init took: (0.000606s)
+[2019.01.06-04.15.23:141][355]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Testing/CutsceneTEST_MAP.CutsceneTEST_MAP to /Game/Maps/Testing/UEDPIE_0_CutsceneTEST_MAP.CutsceneTEST_MAP (0.002949s)
+[2019.01.06-04.15.23:176][355]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.01.06-04.15.23:186][355]LogInit: FAudioDevice initialized.
+[2019.01.06-04.15.23:215][355]LogLoad: Game class is 'GameModeBase'
+[2019.01.06-04.15.23:216][355]LogWorld: Bringing World /Game/Maps/Testing/UEDPIE_0_CutsceneTEST_MAP.CutsceneTEST_MAP up for play (max tick rate 0) at 2019.01.05-20.15.23
+[2019.01.06-04.15.23:217][355]LogWorld: Bringing up level for play took: 0.001063
+[2019.01.06-04.15.23:229][355]PIE: Play in editor start time for /Game/Maps/Testing/UEDPIE_0_CutsceneTEST_MAP 0.967
+[2019.01.06-04.15.24:034][451]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.06-04.15.24:063][451]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.06-04.15.24:089][451]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.06-04.15.24:135][453]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2019.01.06-04.15.25:452][544]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.06-04.15.26:738][681]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Testing/TEst/TEstMaster" FILE="../../../../../../Users/Ryan/Documents/GitHub/TheOnioning2019/TheOnioning/Content/Maps/Testing/TEst/TEstMaster.uasset" SILENT=true
+[2019.01.06-04.15.26:819][681]LogSavePackage: Moving '../../../../../../Users/Ryan/Documents/GitHub/TheOnioning2019/TheOnioning/Saved/TEstMasterC2D802064BB5D91DC075D7B2812BDDFB.tmp' to '../../../../../../Users/Ryan/Documents/GitHub/TheOnioning2019/TheOnioning/Content/Maps/Testing/TEst/TEstMaster.uasset'
+[2019.01.06-04.15.27:441][743]LogSlate: Window 'Sequencer' being destroyed
+[2019.01.06-04.15.27:442][743]LogSlate: Window 'Sequencer' being destroyed
+[2019.01.06-04.15.29:600][  1]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.06-04.15.29:617][  1]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.06-04.15.29:618][  1]PIE: New page: PIE session: CutsceneTEST_MAP (Jan 5, 2019, 12:15:29 PM)
+[2019.01.06-04.15.29:618][  1]LogPlayLevel: Creating play world package: /Game/Maps/Testing/UEDPIE_0_CutsceneTEST_MAP
+[2019.01.06-04.15.29:620][  1]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002271s)
+[2019.01.06-04.15.29:621][  1]LogAIModule: Creating AISystem for world CutsceneTEST_MAP
+[2019.01.06-04.15.29:621][  1]LogPlayLevel: PIE: World Init took: (0.000644s)
+[2019.01.06-04.15.29:621][  1]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Testing/CutsceneTEST_MAP.CutsceneTEST_MAP to /Game/Maps/Testing/UEDPIE_0_CutsceneTEST_MAP.CutsceneTEST_MAP (0.003018s)
+[2019.01.06-04.15.29:657][  1]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.01.06-04.15.29:667][  1]LogInit: FAudioDevice initialized.
+[2019.01.06-04.15.29:695][  1]LogLoad: Game class is 'GameModeBase'
+[2019.01.06-04.15.29:696][  1]LogWorld: Bringing World /Game/Maps/Testing/UEDPIE_0_CutsceneTEST_MAP.CutsceneTEST_MAP up for play (max tick rate 0) at 2019.01.05-20.15.29
+[2019.01.06-04.15.29:697][  1]LogWorld: Bringing up level for play took: 0.001074
+[2019.01.06-04.15.29:709][  1]PIE: Play in editor start time for /Game/Maps/Testing/UEDPIE_0_CutsceneTEST_MAP -0.553
+[2019.01.06-04.15.32:538][308]LogPackageName: SearchForPackageOnDisk took   0.192s, but failed to resolve chap.umap.
+[2019.01.06-04.15.32:538][308]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.06-04.15.32:727][308]LogPackageName: SearchForPackageOnDisk took   0.188s, but failed to resolve chap.umap.
+[2019.01.06-04.15.32:727][308]LogNet: Browse: /Game/Maps/Main/MainMenu_MAP
+[2019.01.06-04.15.32:727][308]LogNet: Warning: Travel Failure: [InvalidURL]: Invalid URL: /Game/Maps/Main/MainMenu_MAP
+[2019.01.06-04.15.32:727][308]LogNet: Warning: TravelFailure: InvalidURL, Reason for Failure: 'Invalid URL: /Game/Maps/Main/MainMenu_MAP'. Shutting down PIE.
+[2019.01.06-04.15.32:727][308]PIE: Warning: TravelFailure: InvalidURL, Reason for Failure: 'Invalid URL: /Game/Maps/Main/MainMenu_MAP'. Shutting down PIE.
+[2019.01.06-04.15.32:727][308]LogNet: Warning: Travel Failure: [ClientTravelFailure]: Invalid URL: /Game/Maps/Main/MainMenu_MAP
+[2019.01.06-04.15.32:727][308]LogNet: Warning: TravelFailure: ClientTravelFailure, Reason for Failure: 'Invalid URL: /Game/Maps/Main/MainMenu_MAP'. Shutting down PIE.
+[2019.01.06-04.15.32:727][308]PIE: Warning: TravelFailure: ClientTravelFailure, Reason for Failure: 'Invalid URL: /Game/Maps/Main/MainMenu_MAP'. Shutting down PIE.
+[2019.01.06-04.15.32:728][308]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.06-04.15.32:759][308]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.06-04.15.32:785][308]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.06-04.15.32:811][309]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2019.01.06-04.15.34:467][506]Cmd: SELECT NONE
+[2019.01.06-04.15.36:698][762]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.06-04.15.41:369][306]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.06-04.15.41:387][306]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.06-04.15.41:387][306]PIE: New page: PIE session: CutsceneTEST_MAP (Jan 5, 2019, 12:15:41 PM)
+[2019.01.06-04.15.41:387][306]LogPlayLevel: Creating play world package: /Game/Maps/Testing/UEDPIE_0_CutsceneTEST_MAP
+[2019.01.06-04.15.41:389][306]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002210s)
+[2019.01.06-04.15.41:390][306]LogAIModule: Creating AISystem for world CutsceneTEST_MAP
+[2019.01.06-04.15.41:390][306]LogPlayLevel: PIE: World Init took: (0.000599s)
+[2019.01.06-04.15.41:390][306]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Testing/CutsceneTEST_MAP.CutsceneTEST_MAP to /Game/Maps/Testing/UEDPIE_0_CutsceneTEST_MAP.CutsceneTEST_MAP (0.002908s)
+[2019.01.06-04.15.41:424][306]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.01.06-04.15.41:434][306]LogInit: FAudioDevice initialized.
+[2019.01.06-04.15.41:468][306]LogLoad: Game class is 'Player_GM_C'
+[2019.01.06-04.15.41:469][306]LogWorld: Bringing World /Game/Maps/Testing/UEDPIE_0_CutsceneTEST_MAP.CutsceneTEST_MAP up for play (max tick rate 0) at 2019.01.05-20.15.41
+[2019.01.06-04.15.41:469][306]LogWorld: Bringing up level for play took: 0.001009
+[2019.01.06-04.15.41:481][306]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.01.06-04.15.41:482][306]PIE: Play in editor start time for /Game/Maps/Testing/UEDPIE_0_CutsceneTEST_MAP -0.78
+[2019.01.06-04.15.45:828][795]LogPackageName: SearchForPackageOnDisk took   0.191s, but failed to resolve cha.umap.
+[2019.01.06-04.15.45:828][795]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.06-04.15.46:017][795]LogPackageName: SearchForPackageOnDisk took   0.188s, but failed to resolve cha.umap.
+[2019.01.06-04.15.46:017][795]LogNet: Browse: /Game/Maps/Main/MainMenu_MAP
+[2019.01.06-04.15.46:017][795]LogNet: Warning: Travel Failure: [InvalidURL]: Invalid URL: /Game/Maps/Main/MainMenu_MAP
+[2019.01.06-04.15.46:017][795]LogNet: Warning: TravelFailure: InvalidURL, Reason for Failure: 'Invalid URL: /Game/Maps/Main/MainMenu_MAP'. Shutting down PIE.
+[2019.01.06-04.15.46:017][795]PIE: Warning: TravelFailure: InvalidURL, Reason for Failure: 'Invalid URL: /Game/Maps/Main/MainMenu_MAP'. Shutting down PIE.
+[2019.01.06-04.15.46:017][795]LogNet: Warning: Travel Failure: [ClientTravelFailure]: Invalid URL: /Game/Maps/Main/MainMenu_MAP
+[2019.01.06-04.15.46:017][795]LogNet: Warning: TravelFailure: ClientTravelFailure, Reason for Failure: 'Invalid URL: /Game/Maps/Main/MainMenu_MAP'. Shutting down PIE.
+[2019.01.06-04.15.46:017][795]PIE: Warning: TravelFailure: ClientTravelFailure, Reason for Failure: 'Invalid URL: /Game/Maps/Main/MainMenu_MAP'. Shutting down PIE.
+[2019.01.06-04.15.46:018][795]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.06-04.15.46:051][795]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.06-04.15.46:077][795]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.06-04.15.46:104][796]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2019.01.06-04.15.46:698][865]Cmd: SELECT NONE
+[2019.01.06-04.15.47:901][  7]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.06-04.15.48:458][ 72]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.06-04.15.54:026][555]LogSlate: Window 'Save Content' being destroyed
+[2019.01.06-04.15.54:037][555]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.06-04.15.54:049][555]LogSavePackage: Moving '../../../../../../Users/Ryan/Documents/GitHub/TheOnioning2019/TheOnioning/Saved/OpeningCutscene_LM5510A61E426C85861E0129BB2054400F.tmp' to '../../../../../../Users/Ryan/Documents/GitHub/TheOnioning2019/TheOnioning/Content/Cinematics/Chapter1/OpeningCutscene_LM.uasset'
+[2019.01.06-04.15.54:234][555]LogSavePackage: Moving '../../../../../../Users/Ryan/Documents/GitHub/TheOnioning2019/TheOnioning/Saved/CutsceneTEST_MAP38D984DC43CB6A4D4A3801B1E638A7C9.tmp' to '../../../../../../Users/Ryan/Documents/GitHub/TheOnioning2019/TheOnioning/Content/Maps/Testing/CutsceneTEST_MAP.umap'
+[2019.01.06-04.15.54:267][555]LogFileHelpers: Saving map 'CutsceneTEST_MAP' took 0.207
+[2019.01.06-04.15.54:270][555]Cmd: MAP LOAD FILE="../../../../../../Users/Ryan/Documents/GitHub/TheOnioning2019/TheOnioning/Content/Maps/Main/Chapter1_MAP.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.01.06-04.15.54:278][555]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.06-04.15.54:280][555]LightingResults: New page: Lighting Build
+[2019.01.06-04.15.54:281][555]LoadErrors: New page: Loading map: Chapter1_MAP.umap
+[2019.01.06-04.15.54:281][555]MapCheck: New page: Map Check
+[2019.01.06-04.15.54:281][555]LightingResults: New page: Lighting Build
+[2019.01.06-04.15.54:467][555]LogAIModule: Creating AISystem for world Chapter1_MAP
+[2019.01.06-04.15.54:548][555]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.01.06-04.15.54:605][555]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.01.06-04.15.54:707][555]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 102.857ms to complete.
+[2019.01.06-04.15.54:707][555]LogFileHelpers: Loading map 'Chapter1_MAP' took 0.438
+[2019.01.06-04.15.54:708][555]LogSlate: Window 'Open Level' being destroyed
+[2019.01.06-04.15.58:281][887]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.06-04.15.58:365][895]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.06-04.15.58:383][895]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Main/Chapter1_MAP.Chapter1_MAP:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Main/Chapter1_MAP.Chapter1_MAP:PersistentLevel.Chapter1_MAP' with GeneratedClass '/Game/Maps/Main/Chapter1_MAP.Chapter1_MAP_C' with ClassGeneratedBy '/Game/Maps/Main/Chapter1_MAP.Chapter1_MAP:PersistentLevel.Chapter1_MAP'
+[2019.01.06-04.15.58:383][895]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.06-04.15.58:383][895]PIE: New page: PIE session: Chapter1_MAP (Jan 5, 2019, 12:15:58 PM)
+[2019.01.06-04.15.58:383][895]LogPlayLevel: Creating play world package: /Game/Maps/Main/UEDPIE_0_Chapter1_MAP
+[2019.01.06-04.15.58:452][895]LogPlayLevel: PIE: StaticDuplicateObject took: (0.068831s)
+[2019.01.06-04.15.58:453][895]LogAIModule: Creating AISystem for world Chapter1_MAP
+[2019.01.06-04.15.58:453][895]LogPlayLevel: PIE: World Init took: (0.000659s)
+[2019.01.06-04.15.58:453][895]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main/Chapter1_MAP.Chapter1_MAP to /Game/Maps/Main/UEDPIE_0_Chapter1_MAP.Chapter1_MAP (0.069642s)
+[2019.01.06-04.15.58:489][895]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.01.06-04.15.58:499][895]LogInit: FAudioDevice initialized.
+[2019.01.06-04.15.58:531][895]LogLoad: Game class is 'Player_GM_C'
+[2019.01.06-04.15.58:538][895]LogWorld: Bringing World /Game/Maps/Main/UEDPIE_0_Chapter1_MAP.Chapter1_MAP up for play (max tick rate 0) at 2019.01.05-20.15.58
+[2019.01.06-04.15.58:539][895]LogWorld: Bringing up level for play took: 0.007208
+[2019.01.06-04.15.58:550][895]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.01.06-04.15.58:551][895]PIE: Play in editor start time for /Game/Maps/Main/UEDPIE_0_Chapter1_MAP 0.29
+[2019.01.06-04.15.58:552][895]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Main/Chapter1_MAP.Chapter1_MAP:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Main/Chapter1_MAP.Chapter1_MAP:PersistentLevel.Chapter1_MAP' with GeneratedClass '/Game/Maps/Main/Chapter1_MAP.Chapter1_MAP_C' with ClassGeneratedBy '/Game/Maps/Main/Chapter1_MAP.Chapter1_MAP:PersistentLevel.Chapter1_MAP'
+[2019.01.06-04.15.59:351][970]Cmd: LevelEditor.ToggleImmersive
+[2019.01.06-04.15.59:553][975]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.06-04.16.02:899][197]Cmd: fov 110
+[2019.01.06-04.16.02:899][197]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.06-04.16.11:858][781]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.06-04.16.11:859][781]LogNet: Browse: /Game/Maps/Testing/CutsceneTEST_MAP
+[2019.01.06-04.16.11:872][781]LogLoad: LoadMap: /Game/Maps/Testing/CutsceneTEST_MAP
+[2019.01.06-04.16.12:418][781]LogAIModule: Creating AISystem for world CutsceneTEST_MAP
+[2019.01.06-04.16.12:418][781]LogLoad: Game class is 'Player_GM_C'
+[2019.01.06-04.16.12:419][781]LogWorld: Bringing World /Game/Maps/Testing/UEDPIE_0_CutsceneTEST_MAP.CutsceneTEST_MAP up for play (max tick rate 0) at 2019.01.05-20.16.12
+[2019.01.06-04.16.12:420][781]LogWorld: Bringing up level for play took: 0.001384
+[2019.01.06-04.16.12:420][781]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.01.06-04.16.12:426][781]LogLoad: Took 0.554070 seconds to LoadMap(/Game/Maps/Testing/CutsceneTEST_MAP)
+[2019.01.06-04.16.30:648][957]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.06-04.16.30:648][957]LogNet: Browse: /Game/Maps/Main/Chapter1_MAP
+[2019.01.06-04.16.30:648][957]LogLoad: LoadMap: /Game/Maps/Main/Chapter1_MAP
+[2019.01.06-04.16.30:672][957]LogPlayLevel: Creating play world package: /Game/Maps/Main/UEDPIE_0_Chapter1_MAP
+[2019.01.06-04.16.30:737][957]LogPlayLevel: PIE: StaticDuplicateObject took: (0.064981s)
+[2019.01.06-04.16.30:737][957]LogAIModule: Creating AISystem for world Chapter1_MAP
+[2019.01.06-04.16.30:738][957]LogPlayLevel: PIE: World Init took: (0.000670s)
+[2019.01.06-04.16.30:738][957]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main/Chapter1_MAP.Chapter1_MAP to /Game/Maps/Main/UEDPIE_0_Chapter1_MAP.Chapter1_MAP (0.065840s)
+[2019.01.06-04.16.30:738][957]LogLoad: Game class is 'Player_GM_C'
+[2019.01.06-04.16.30:745][957]LogWorld: Bringing World /Game/Maps/Main/UEDPIE_0_Chapter1_MAP.Chapter1_MAP up for play (max tick rate 0) at 2019.01.05-20.16.30
+[2019.01.06-04.16.30:746][957]LogWorld: Bringing up level for play took: 0.007403
+[2019.01.06-04.16.30:746][957]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.01.06-04.16.30:747][957]LogLoad: Took 0.099877 seconds to LoadMap(/Game/Maps/Main/UEDPIE_0_Chapter1_MAP)
+[2019.01.06-04.16.35:542][344]Cmd: fov 110
+[2019.01.06-04.16.35:542][344]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.06-04.17.24:753][370]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Main/Chapter1_MAP.Chapter1_MAP:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Main/Chapter1_MAP.Chapter1_MAP:PersistentLevel.Chapter1_MAP' with GeneratedClass '/Game/Maps/Main/Chapter1_MAP.Chapter1_MAP_C' with ClassGeneratedBy '/Game/Maps/Main/Chapter1_MAP.Chapter1_MAP:PersistentLevel.Chapter1_MAP'
+[2019.01.06-04.17.24:753][370]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.06-04.17.24:814][370]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.06-04.17.24:814][370]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Main/Chapter1_MAP.Chapter1_MAP:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Main/Chapter1_MAP.Chapter1_MAP:PersistentLevel.Chapter1_MAP' with GeneratedClass '/Game/Maps/Main/Chapter1_MAP.Chapter1_MAP_C' with ClassGeneratedBy '/Game/Maps/Main/Chapter1_MAP.Chapter1_MAP:PersistentLevel.Chapter1_MAP'
+[2019.01.06-04.17.24:840][370]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.06-04.17.24:879][371]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2019.01.06-04.17.25:269][409]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.06-04.17.25:856][409]LogSavePackage: Moving '../../../../../../Users/Ryan/Documents/GitHub/TheOnioning2019/TheOnioning/Saved/Chapter1_MAPB72CED2A4A81598E9F01159A8C92E5D6.tmp' to '../../../../../../Users/Ryan/Documents/GitHub/TheOnioning2019/TheOnioning/Content/Maps/Main/Chapter1_MAP.umap'
+[2019.01.06-04.17.34:806][117]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.06-04.17.38:980][601]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.06-04.17.39:745][622]LogSavePackage: Moving '../../../../../../Users/Ryan/Documents/GitHub/TheOnioning2019/TheOnioning/Saved/Chapter1_MAP7F3D2353466D4475416E0C96E1716B7D.tmp' to '../../../../../../Users/Ryan/Documents/GitHub/TheOnioning2019/TheOnioning/Content/Maps/Main/Chapter1_MAP.umap'
+[2019.01.06-04.17.40:399][696]LogSlate: FSceneViewport::OnFocusLost() reason 0

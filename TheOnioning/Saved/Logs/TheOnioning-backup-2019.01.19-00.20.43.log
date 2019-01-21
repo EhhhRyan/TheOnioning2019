@@ -1,0 +1,1248 @@
+﻿Log file open, 01/18/19 21:22:12
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: TheOnioning
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 3.108808
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -8:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.592s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4369336
+LogInit: Engine Version: 4.20.3-4369336+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-5820K CPU @ 3.30GHz, GPU: NVIDIA GeForce GTX 970
+LogInit: Compiled (64-bit): Sep 17 2018 12:26:19
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line:  
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.028s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2019.01.19-05.22.15:170][  0]LogInit: Selected Device Profile: [Windows]
+[2019.01.19-05.22.15:170][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.01.19-05.22.15:241][  0]LogHAL: Display: Platform has ~ 8 GB [8496615424 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.01.19-05.22.15:250][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2019.01.19-05.22.15:250][  0]LogInit: Going up to parent DeviceProfile []
+[2019.01.19-05.22.15:328][  0]LogInit: Computer: DESKTOP-ODLAD0V
+[2019.01.19-05.22.15:328][  0]LogInit: User: Ryan
+[2019.01.19-05.22.15:328][  0]LogInit: CPU Page size=4096, Cores=6
+[2019.01.19-05.22.15:328][  0]LogInit: High frequency timer resolution =3.220790 MHz
+[2019.01.19-05.22.15:328][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2019.01.19-05.22.15:328][  0]LogMemory: Platform Memory Stats for Windows
+[2019.01.19-05.22.15:328][  0]LogMemory: Process Physical Memory: 101.32 MB used, 101.32 MB peak
+[2019.01.19-05.22.15:328][  0]LogMemory: Process Virtual Memory: 85.84 MB used, 85.84 MB peak
+[2019.01.19-05.22.15:328][  0]LogMemory: Physical Memory: 5201.09 MB used,  2901.92 MB free, 8103.00 MB total
+[2019.01.19-05.22.15:328][  0]LogMemory: Virtual Memory: 4652.75 MB used,  2901.92 MB free, 134217728.00 MB total
+[2019.01.19-05.22.16:625][  0]LogInit: Using OS detected language (en-US).
+[2019.01.19-05.22.16:625][  0]LogInit: Using OS detected locale (en-US).
+[2019.01.19-05.22.16:719][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.01.19-05.22.17:473][  0]LogStreaming: Display: Took  0.822s to InitEngineTextLocalization.
+[2019.01.19-05.22.17:483][  0]LogInit: Setting process to per monitor DPI aware
+[2019.01.19-05.22.18:098][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.01.19-05.22.18:098][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.01.19-05.22.21:641][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.01.19-05.22.21:641][  0]LogD3D11RHI: D3D11 adapters:
+[2019.01.19-05.22.21:780][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 970' (Feature Level 11_0)
+[2019.01.19-05.22.21:780][  0]LogD3D11RHI:       4043/0/4051 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2019.01.19-05.22.21:805][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.01.19-05.22.21:805][  0]LogD3D11RHI:       0/0/4051 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.01.19-05.22.21:805][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.01.19-05.22.21:814][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.01.19-05.22.21:814][  0]LogD3D11RHI:     GPU DeviceId: 0x13c2 (for the marketing name, search the web for "GPU Device Id")
+[2019.01.19-05.22.21:839][  0]LogWindows: EnumDisplayDevices:
+[2019.01.19-05.22.21:840][  0]LogWindows:    0. 'NVIDIA GeForce GTX 970' (P:1 D:1)
+[2019.01.19-05.22.21:840][  0]LogWindows:    1. 'NVIDIA GeForce GTX 970' (P:0 D:1)
+[2019.01.19-05.22.21:840][  0]LogWindows:    2. 'NVIDIA GeForce GTX 970' (P:0 D:0)
+[2019.01.19-05.22.21:841][  0]LogWindows:    3. 'NVIDIA GeForce GTX 970' (P:0 D:0)
+[2019.01.19-05.22.21:841][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2019.01.19-05.22.21:841][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 970
+[2019.01.19-05.22.21:841][  0]LogD3D11RHI:   Driver Version: 399.07 (internal:24.21.13.9907, unified:399.07)
+[2019.01.19-05.22.21:841][  0]LogD3D11RHI:      Driver Date: 8-21-2018
+[2019.01.19-05.22.21:841][  0]LogRHI: Texture pool is 2830 MB (70% of 4043 MB)
+[2019.01.19-05.22.21:987][  0]LogD3D11RHI: Async texture creation enabled
+[2019.01.19-05.22.22:212][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2019.01.19-05.22.22:288][  0]LogShaderCompilers: Guid format shader working directory is -28 characters bigger than the processId version (../../../../../../Users/Ryan/Documents/GitHub/TheOnioning2019/TheOnioning/Intermediate/Shaders/WorkingDirectory/7156/).
+[2019.01.19-05.22.22:289][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Ryan/AppData/Local/Temp/UnrealShaderWorkingDir/B24040224D3298F549379C82245235D3/'.
+[2019.01.19-05.22.24:991][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.01.19-05.22.25:013][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.01.19-05.22.25:031][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.01.19-05.22.25:051][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.01.19-05.22.25:088][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.01.19-05.22.25:125][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.01.19-05.22.25:143][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.01.19-05.22.25:160][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.01.19-05.22.25:171][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.01.19-05.22.25:291][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.19-05.22.25:291][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.19-05.22.25:291][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.19-05.22.25:291][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.19-05.22.25:291][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.19-05.22.25:291][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.19-05.22.25:291][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.19-05.22.25:291][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.19-05.22.25:291][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.19-05.22.25:291][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.19-05.22.25:291][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.19-05.22.25:291][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.19-05.22.25:291][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.19-05.22.25:291][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.19-05.22.25:291][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.19-05.22.25:291][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.19-05.22.25:291][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.19-05.22.25:291][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.19-05.22.25:305][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.01.19-05.22.25:408][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.01.19-05.22.25:408][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.01.19-05.22.25:443][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.01.19-05.22.25:443][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.01.19-05.22.25:463][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.01.19-05.22.25:484][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.01.19-05.22.25:502][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.01.19-05.22.25:535][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.01.19-05.22.25:546][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.01.19-05.22.25:546][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.01.19-05.22.26:224][  0]LogXGEController: Cleaning working directory: C:/Users/Ryan/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.01.19-05.22.26:224][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.01.19-05.22.26:225][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.01.19-05.22.26:225][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.01.19-05.22.30:922][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.01.19-05.22.31:653][  0]LogDerivedDataCache: Loaded boot cache 0.72s 71MB C:/Users/Ryan/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2019.01.19-05.22.31:654][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Ryan/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2019.01.19-05.22.31:655][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Ryan/Documents/GitHub/TheOnioning2019/TheOnioning/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.01.19-05.22.31:655][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.01.19-05.22.31:655][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Ryan/Documents/GitHub/TheOnioning2019/TheOnioning/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.01.19-05.22.31:655][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.01.19-05.22.31:784][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.01.19-05.22.31:815][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Ryan/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.01.19-05.22.31:815][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.01.19-05.22.31:815][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.01.19-05.22.31:864][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.01.19-05.22.31:897][  0]LogSlate: Using FreeType 2.6.0
+[2019.01.19-05.22.31:949][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.01.19-05.22.32:737][  0]LogAssetRegistry: FAssetRegistry took 0.0278 seconds to start up
+[2019.01.19-05.22.35:443][  0]LogInit: Selected Device Profile: [Windows]
+[2019.01.19-05.22.37:754][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.01.19-05.22.37:843][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.01.19-05.22.37:843][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.01.19-05.22.37:844][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.01.19-05.22.37:844][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.01.19-05.22.38:495][  0]LogNetVersion: TheOnioning 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 2736480446)
+[2019.01.19-05.22.42:627][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.270923 seconds
+[2019.01.19-05.22.42:689][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2019.01.19-05.22.42:689][  0]LogUObjectAllocator: 6690864 out of 0 bytes used by permanent object pool.
+[2019.01.19-05.22.42:689][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.01.19-05.22.57:784][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.01.19-05.22.57:822][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.01.19-05.22.58:776][  0]SourceControl: Source control is disabled
+[2019.01.19-05.22.58:776][  0]SourceControl: Source control is disabled
+[2019.01.19-05.22.58:814][  0]SourceControl: Source control is disabled
+[2019.01.19-05.22.58:817][  0]SourceControl: Source control is disabled
+[2019.01.19-05.22.59:845][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.01.19-05.23.00:045][  0]LogOcInput: OculusInput pre-init called
+[2019.01.19-05.23.00:493][  0]LogEngine: Initializing Engine...
+[2019.01.19-05.23.00:511][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.01.19-05.23.00:550][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.009 s
+[2019.01.19-05.23.00:550][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.01.19-05.23.00:550][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.01.19-05.23.00:550][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.01.19-05.23.01:438][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.01.19-05.23.01:738][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.01.19-05.23.01:900][  0]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.01.19-05.23.01:951][  0]LogInit: FAudioDevice initialized.
+[2019.01.19-05.23.01:951][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.01.19-05.23.02:217][  0]LogDerivedDataCache: Saved boot cache 0.27s 71MB C:/Users/Ryan/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2019.01.19-05.23.02:256][  0]LogInit: Texture streaming: Enabled
+[2019.01.19-05.23.02:380][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.01.19-05.23.02:516][  0]LogInit: Transaction tracking system initialized
+[2019.01.19-05.23.02:822][  0]BlueprintLog: New page: Editor Load
+[2019.01.19-05.23.03:735][  0]LocalizationService: Localization service is disabled
+[2019.01.19-05.23.06:884][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Ryan/Documents/GitHub/TheOnioning2019/TheOnioning/Content/' took 0.05s
+[2019.01.19-05.23.06:884][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.01.19-05.23.06:884][  0]LogCook: Display: Mobile HDR setting 1
+[2019.01.19-05.23.06:900][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.01.19-05.23.06:900][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.01.19-05.23.06:900][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.01.19-05.23.06:900][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.01.19-05.23.06:900][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.01.19-05.23.09:348][  0]SourceControl: Source control is disabled
+[2019.01.19-05.23.09:371][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Ryan/Documents/GitHub/TheOnioning2019/TheOnioning/Content/Maps/Testing/PlayerTEST_MAP.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.01.19-05.23.09:372][  0]LogEditorServer: Warning: Can't find file '../../../../../../Users/Ryan/Documents/GitHub/TheOnioning2019/TheOnioning/Content/Maps/Testing/PlayerTEST_MAP.umap'
+[2019.01.19-05.23.09:372][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.01.19-05.23.09:476][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 104.03ms to complete.
+[2019.01.19-05.23.09:476][  0]LogFileHelpers: Loading map 'PlayerTEST_MAP' took 0.122
+[2019.01.19-05.23.10:428][  0]LogCollectionManager: Loaded 0 collections in 0.013168 seconds
+[2019.01.19-05.23.10:609][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Ryan/Documents/GitHub/TheOnioning2019/TheOnioning/Saved/Collections/' took 0.01s
+[2019.01.19-05.23.10:609][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Ryan/Documents/GitHub/TheOnioning2019/TheOnioning/Content/Developers/Ryan/Collections/' took 0.01s
+[2019.01.19-05.23.10:609][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Ryan/Documents/GitHub/TheOnioning2019/TheOnioning/Content/Collections/' took 0.01s
+[2019.01.19-05.23.10:609][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.01.19-05.23.10:620][  0]LogContentBrowser: Native class hierarchy populated in 0.0097 seconds. Added 2572 classes and 603 folders.
+[2019.01.19-05.23.10:682][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.01.19-05.23.11:950][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.01.19-05.23.12:239][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.19-05.23.12:247][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.19-05.23.12:255][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.19-05.23.12:263][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.19-05.23.12:379][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2019.01.19-05.23.12:928][  0]LogSlate: Took 0.008033 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.01.19-05.23.12:943][  0]LogSlate: Took 0.012561 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.01.19-05.23.12:958][  0]LogSlate: Took 0.013940 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.01.19-05.23.13:365][  0]LogRenderer: Reallocating scene render targets to support 1632x924 Format 10 NumSamples 1 (Frame:1).
+[2019.01.19-05.23.13:915][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.01.19-05.23.13:915][  0]LogLoad: (Engine Initialization) Total time: 79.48 seconds
+[2019.01.19-05.23.13:915][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.01.19-05.23.14:042][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.01.19-05.23.14:454][  2]LogAssetRegistry: Asset discovery search completed in 41.7403 seconds
+[2019.01.19-05.23.14:456][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2019.01.19-05.23.14:456][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000052 seconds (updated 0 objects)
+[2019.01.19-05.23.20:756][ 21]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.19-05.23.21:770][133]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.19-05.23.21:815][133]LogSlate: Took 0.013533 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.01.19-05.23.24:637][442]Cmd: MAP LOAD FILE="../../../../../../Users/Ryan/Documents/GitHub/TheOnioning2019/TheOnioning/Content/Maps/Main/Chapter1_MAP.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.01.19-05.23.24:655][442]LogSlate: Took 0.000224 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.01.19-05.23.24:663][442]LightingResults: New page: Lighting Build
+[2019.01.19-05.23.24:678][442]LogContentBrowser: Native class hierarchy updated for 'StatsViewer' in 0.0003 seconds. Added 5 classes and 0 folders.
+[2019.01.19-05.23.24:679][442]LoadErrors: New page: Loading map: Chapter1_MAP.umap
+[2019.01.19-05.23.24:698][442]MapCheck: New page: Map Check
+[2019.01.19-05.23.24:698][442]LightingResults: New page: Lighting Build
+[2019.01.19-05.23.27:610][442]LogAIModule: Creating AISystem for world Chapter1_MAP
+[2019.01.19-05.23.32:975][442]LogMaterial: Warning: Material /Game/Materials/RoughWood001_MAT.RoughWood001_MAT needed to have new flag set bUsedWithInstancedStaticMeshes !
+[2019.01.19-05.23.32:995][442]LogMaterial: Display: Missing cached shader map for material RoughWood001_MAT, compiling. 
+[2019.01.19-05.23.33:076][442]MapCheck: Warning: RoughWood001_MAT Material /Game/Materials/RoughWood001_MAT.RoughWood001_MAT was missing the usage flag bUsedWithInstancedStaticMeshes. If the material asset is not re-saved, it may not render correctly when run outside the editor. Fix
+[2019.01.19-05.23.33:107][442]LogShaderCompilers: Display: Shaders left to compile 43
+[2019.01.19-05.23.33:108][442]LogShaderCompilers: Display: Shaders left to compile 33
+[2019.01.19-05.23.33:108][442]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.01.19-05.23.33:108][442]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.01.19-05.23.33:108][442]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.01.19-05.23.33:129][442]LogMaterial: Warning: Material /Game/Materials/SwampGround01_MAT.SwampGround01_MAT needed to have new flag set bUsedWithInstancedStaticMeshes !
+[2019.01.19-05.23.33:175][442]LogMaterial: Display: Missing cached shader map for material SwampGround01_MAT, compiling. 
+[2019.01.19-05.23.33:194][442]MapCheck: Warning: SwampGround01_MAT Material /Game/Materials/SwampGround01_MAT.SwampGround01_MAT was missing the usage flag bUsedWithInstancedStaticMeshes. If the material asset is not re-saved, it may not render correctly when run outside the editor. Fix
+[2019.01.19-05.23.33:197][442]LogMaterial: Display: Missing cached shader map for material SwampGround01_MAT, compiling. 
+[2019.01.19-05.23.33:850][442]LogShaderCompilers: Display: Shaders left to compile 85
+[2019.01.19-05.23.33:850][442]LogShaderCompilers: Display: Shaders left to compile 75
+[2019.01.19-05.23.33:850][442]LogShaderCompilers: Display: Shaders left to compile 65
+[2019.01.19-05.23.33:851][442]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.01.19-05.23.34:044][442]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.01.19-05.23.34:143][442]MapCheck: Map check complete: 0 Error(s), 2 Warning(s), took 98.345ms to complete.
+[2019.01.19-05.23.34:189][442]LogFileHelpers: Loading map 'Chapter1_MAP' took 9.556
+[2019.01.19-05.23.34:191][442]LogSlate: Window 'Open Level' being destroyed
+[2019.01.19-05.23.36:797][642]LogShaderCompilers: Display: Shaders left to compile 55
+[2019.01.19-05.23.38:736][791]LogShaderCompilers: Display: Shaders left to compile 45
+[2019.01.19-05.23.38:790][794]LogShaderCompilers: Display: Shaders left to compile 35
+[2019.01.19-05.23.38:865][801]LogShaderCompilers: Display: Shaders left to compile 25
+[2019.01.19-05.23.38:889][803]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.01.19-05.23.40:947][961]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.01.19-05.23.47:107][638]LogSlate: Window 'Message Log' being destroyed
+[2019.01.19-05.23.47:110][638]LogSlate: Window 'Message Log' being destroyed
+[2019.01.19-05.24.44:233][149]LogEditorViewport: Clicking on Actor (LMB): InstancedFoliageActor (InstancedFoliageActor1)
+[2019.01.19-05.24.46:645][356]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.19-05.24.46:838][377]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/Models/Placeholder/PlaceholderTree_SM.PlaceholderTree_SM
+[2019.01.19-05.24.48:393][377]LogSlate: Took 0.037239 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.01.19-05.24.49:529][441]LogRenderer: Reallocating scene render targets to support 1912x924 Format 10 NumSamples 1 (Frame:67).
+[2019.01.19-05.24.53:159][747]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.19-05.24.54:140][756]LogSavePackage: Moving '../../../../../../Users/Ryan/Documents/GitHub/TheOnioning2019/TheOnioning/Saved/PlaceholderTree_SM56D4CB884D6E9CBE93A019B09B99B45F.tmp' to '../../../../../../Users/Ryan/Documents/GitHub/TheOnioning2019/TheOnioning/Content/Models/Placeholder/PlaceholderTree_SM.uasset'
+[2019.01.19-05.24.54:840][822]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.19-05.24.54:912][830]LogSlate: Window 'PlaceholderTree_SM' being destroyed
+[2019.01.19-05.24.54:914][830]LogSlate: Window 'PlaceholderTree_SM' being destroyed
+[2019.01.19-05.24.56:007][937]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.19-05.24.56:180][956]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/Models/Placeholder/PlaceholderTree_SM.PlaceholderTree_SM
+[2019.01.19-05.25.00:510][252]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.19-05.25.04:239][539]LogSlate: Window 'Message' being destroyed
+[2019.01.19-05.25.04:349][539]LogStaticMesh: Building static mesh PlaceholderTree_SM...
+[2019.01.19-05.25.04:357][539]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.19-05.25.04:417][539]LogStaticMesh: Built static mesh [0.10s] /Game/Models/Placeholder/PlaceholderTree_SM.PlaceholderTree_SM
+[2019.01.19-05.25.04:639][549]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.19-05.25.13:488][381]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.19-05.25.17:871][696]LogSlate: Window 'Message' being destroyed
+[2019.01.19-05.25.18:388][735]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.19-05.25.21:676][ 20]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.19-05.25.25:541][308]LogSlate: Window 'Message' being destroyed
+[2019.01.19-05.25.26:018][345]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.19-05.25.28:335][521]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.19-05.25.31:957][803]LogSlate: Window 'Message' being destroyed
+[2019.01.19-05.25.32:168][813]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.19-05.25.34:442][  4]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.19-05.25.37:200][127]LogSlate: Window 'Message' being destroyed
+[2019.01.19-05.25.37:215][127]LogStaticMesh: Building static mesh PlaceholderTree_SM...
+[2019.01.19-05.25.37:223][127]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.19-05.25.37:258][127]LogStaticMesh: Built static mesh [0.05s] /Game/Models/Placeholder/PlaceholderTree_SM.PlaceholderTree_SM
+[2019.01.19-05.25.37:573][147]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.19-05.25.42:611][601]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.19-05.25.47:719][989]LogSlate: Window 'Message' being destroyed
+[2019.01.19-05.25.47:757][989]LogStaticMesh: Building static mesh PlaceholderTree_SM...
+[2019.01.19-05.25.47:765][989]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.19-05.25.47:814][989]LogStaticMesh: Built static mesh [0.06s] /Game/Models/Placeholder/PlaceholderTree_SM.PlaceholderTree_SM
+[2019.01.19-05.25.48:106][  6]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.19-05.25.50:501][188]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.19-05.25.56:318][701]LogSlate: Window 'Message' being destroyed
+[2019.01.19-05.25.57:352][782]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.19-05.26.24:451][218]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.19-05.26.39:654][578]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.19-05.26.51:421][795]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.19-05.26.53:749][980]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.19-05.26.59:967][508]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.19-05.27.05:533][927]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.19-05.27.07:064][ 74]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.19-05.27.07:135][ 74]LogSavePackage: Moving '../../../../../../Users/Ryan/Documents/GitHub/TheOnioning2019/TheOnioning/Saved/PlaceholderTree_SMD72C620041897EC254E453BFE7710962.tmp' to '../../../../../../Users/Ryan/Documents/GitHub/TheOnioning2019/TheOnioning/Content/Models/Placeholder/PlaceholderTree_SM.uasset'
+[2019.01.19-05.27.08:215][163]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.19-05.27.11:229][450]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.19-05.27.11:275][450]LogSavePackage: Moving '../../../../../../Users/Ryan/Documents/GitHub/TheOnioning2019/TheOnioning/Saved/PlaceholderTree_SME30D87D84B9EB88E288C39B8108CEC6E.tmp' to '../../../../../../Users/Ryan/Documents/GitHub/TheOnioning2019/TheOnioning/Content/Models/Placeholder/PlaceholderTree_SM.uasset'
+[2019.01.19-05.27.11:821][501]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.19-05.27.11:951][510]LogSavePackage: Moving '../../../../../../Users/Ryan/Documents/GitHub/TheOnioning2019/TheOnioning/Saved/PlaceholderTree_SM14CB3E9045380459518D238BF259863A.tmp' to '../../../../../../Users/Ryan/Documents/GitHub/TheOnioning2019/TheOnioning/Content/Models/Placeholder/PlaceholderTree_SM.uasset'
+[2019.01.19-05.27.12:337][546]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.19-05.27.12:413][555]LogSlate: Window 'PlaceholderTree_SM' being destroyed
+[2019.01.19-05.27.12:416][555]LogSlate: Window 'PlaceholderTree_SM' being destroyed
+[2019.01.19-05.27.13:495][646]LogEditorViewport: Clicking Background
+[2019.01.19-05.27.15:505][870]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.19-05.27.16:423][978]Cmd: STAT FPS
+[2019.01.19-05.27.21:876][562]LogEditorViewport: Clicking on Actor (context menu): Landscape (Landscape)
+[2019.01.19-05.27.21:978][562]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.19-05.27.22:821][648]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Main/Chapter1_MAP.Chapter1_MAP:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Main/Chapter1_MAP.Chapter1_MAP:PersistentLevel.Chapter1_MAP' with GeneratedClass '/Game/Maps/Main/Chapter1_MAP.Chapter1_MAP_C' with ClassGeneratedBy '/Game/Maps/Main/Chapter1_MAP.Chapter1_MAP:PersistentLevel.Chapter1_MAP'
+[2019.01.19-05.27.22:821][648]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.19-05.27.22:901][648]PIE: New page: PIE session: Chapter1_MAP (Jan 18, 2019, 1:27:22 PM)
+[2019.01.19-05.27.22:901][648]LogPlayLevel: Creating play world package: /Game/Maps/Main/UEDPIE_0_Chapter1_MAP
+[2019.01.19-05.27.22:960][648]LogPlayLevel: PIE: StaticDuplicateObject took: (0.059013s)
+[2019.01.19-05.27.22:961][648]LogAIModule: Creating AISystem for world Chapter1_MAP
+[2019.01.19-05.27.22:961][648]LogPlayLevel: PIE: World Init took: (0.000654s)
+[2019.01.19-05.27.22:961][648]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main/Chapter1_MAP.Chapter1_MAP to /Game/Maps/Main/UEDPIE_0_Chapter1_MAP.Chapter1_MAP (0.059823s)
+[2019.01.19-05.27.23:026][648]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.01.19-05.27.23:036][648]LogInit: FAudioDevice initialized.
+[2019.01.19-05.27.23:043][648]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.19-05.27.23:090][648]LogLoad: Game class is 'Player_GM_C'
+[2019.01.19-05.27.23:108][648]LogWorld: Bringing World /Game/Maps/Main/UEDPIE_0_Chapter1_MAP.Chapter1_MAP up for play (max tick rate 0) at 2019.01.18-21.27.23
+[2019.01.19-05.27.23:168][648]LogWorld: Bringing up level for play took: 0.062229
+[2019.01.19-05.27.23:247][648]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.01.19-05.27.23:316][648]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 10 classes and 0 folders.
+[2019.01.19-05.27.23:382][648]PIE: Play in editor start time for /Game/Maps/Main/UEDPIE_0_Chapter1_MAP -0.01
+[2019.01.19-05.27.23:382][648]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Main/Chapter1_MAP.Chapter1_MAP:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Main/Chapter1_MAP.Chapter1_MAP:PersistentLevel.Chapter1_MAP' with GeneratedClass '/Game/Maps/Main/Chapter1_MAP.Chapter1_MAP_C' with ClassGeneratedBy '/Game/Maps/Main/Chapter1_MAP.Chapter1_MAP:PersistentLevel.Chapter1_MAP'
+[2019.01.19-05.27.27:773][163]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Main/Chapter1_MAP.Chapter1_MAP:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Main/Chapter1_MAP.Chapter1_MAP:PersistentLevel.Chapter1_MAP' with GeneratedClass '/Game/Maps/Main/Chapter1_MAP.Chapter1_MAP_C' with ClassGeneratedBy '/Game/Maps/Main/Chapter1_MAP.Chapter1_MAP:PersistentLevel.Chapter1_MAP'
+[2019.01.19-05.27.27:773][163]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.19-05.27.27:813][163]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.19-05.27.27:813][163]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Main/Chapter1_MAP.Chapter1_MAP:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Main/Chapter1_MAP.Chapter1_MAP:PersistentLevel.Chapter1_MAP' with GeneratedClass '/Game/Maps/Main/Chapter1_MAP.Chapter1_MAP_C' with ClassGeneratedBy '/Game/Maps/Main/Chapter1_MAP.Chapter1_MAP:PersistentLevel.Chapter1_MAP'
+[2019.01.19-05.27.27:849][163]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.19-05.27.27:881][164]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2019.01.19-05.27.30:653][475]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.19-05.27.43:044][921]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.19-05.27.47:035][389]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.19-05.27.47:498][389]LogSavePackage: Moving '../../../../../../Users/Ryan/Documents/GitHub/TheOnioning2019/TheOnioning/Saved/Chapter1_MAP6B0D6D3E41F65E9A0391B6A751A5506E.tmp' to '../../../../../../Users/Ryan/Documents/GitHub/TheOnioning2019/TheOnioning/Content/Maps/Main/Chapter1_MAP.umap'
+[2019.01.19-05.27.55:353][216]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.19-05.27.55:914][271]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.19-05.27.57:091][381]Cmd: MAP LOAD FILE="../../../../../../Users/Ryan/Documents/GitHub/TheOnioning2019/TheOnioning/Content/Maps/Main/Chapter1V1_MAP.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.01.19-05.27.57:107][381]LightingResults: New page: Lighting Build
+[2019.01.19-05.27.57:107][381]LoadErrors: New page: Loading map: Chapter1V1_MAP.umap
+[2019.01.19-05.27.57:109][381]MapCheck: New page: Map Check
+[2019.01.19-05.27.57:109][381]LightingResults: New page: Lighting Build
+[2019.01.19-05.28.02:641][381]LogAIModule: Creating AISystem for world Chapter1V1_MAP
+[2019.01.19-05.28.02:775][381]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.01.19-05.28.02:836][381]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.01.19-05.28.02:939][381]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 102.607ms to complete.
+[2019.01.19-05.28.02:939][381]LogFileHelpers: Loading map 'Chapter1V1_MAP' took 5.849
+[2019.01.19-05.28.02:941][381]LogSlate: Window 'Open Level' being destroyed
+[2019.01.19-05.28.08:394][945]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.19-05.28.14:042][542]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.19-05.29.26:106][828]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.19-05.31.08:482][ 37]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.19-05.31.09:247][126]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.19-05.31.10:380][251]Cmd: MAP LOAD FILE="../../../../../../Users/Ryan/Documents/GitHub/TheOnioning2019/TheOnioning/Content/Maps/Main/Chapter3_MAP.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.01.19-05.31.10:393][251]LightingResults: New page: Lighting Build
+[2019.01.19-05.31.10:394][251]LoadErrors: New page: Loading map: Chapter3_MAP.umap
+[2019.01.19-05.31.10:400][251]MapCheck: New page: Map Check
+[2019.01.19-05.31.10:400][251]LightingResults: New page: Lighting Build
+[2019.01.19-05.31.10:594][251]LogAIModule: Creating AISystem for world Chapter3_MAP
+[2019.01.19-05.31.14:245][251]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.01.19-05.31.14:304][251]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.01.19-05.31.14:405][251]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 100.416ms to complete.
+[2019.01.19-05.31.14:405][251]LogFileHelpers: Loading map 'Chapter3_MAP' took 4.026
+[2019.01.19-05.31.14:406][251]LogSlate: Window 'Open Level' being destroyed
+[2019.01.19-05.32.33:912][668]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sphere6)
+[2019.01.19-05.32.34:569][693]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Sphere10)
+[2019.01.19-05.32.35:519][790]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Sphere11)
+[2019.01.19-05.32.35:868][824]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Sphere3)
+[2019.01.19-05.32.36:849][929]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Sphere4)
+[2019.01.19-05.32.37:181][961]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Sphere2)
+[2019.01.19-05.32.37:605][  4]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Sphere)
+[2019.01.19-05.32.37:961][ 38]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Sphere5)
+[2019.01.19-05.32.38:418][ 85]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Sphere9)
+[2019.01.19-05.32.39:019][148]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Sphere8)
+[2019.01.19-05.32.39:401][185]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Sphere12)
+[2019.01.19-05.32.39:979][246]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Sphere7)
+[2019.01.19-05.32.40:868][345]Cmd: DELETE
+[2019.01.19-05.32.40:869][345]Cmd: ACTOR DELETE
+[2019.01.19-05.32.40:907][345]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.01.19-05.32.40:907][345]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.01.19-05.32.40:908][345]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.01.19-05.32.40:908][345]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.01.19-05.32.40:908][345]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.01.19-05.32.40:909][345]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.01.19-05.32.40:909][345]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.01.19-05.32.40:909][345]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.01.19-05.32.40:910][345]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.01.19-05.32.40:910][345]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.01.19-05.32.40:910][345]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.01.19-05.32.40:911][345]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.01.19-05.32.40:937][345]LogEditorActor: Deleted 12 Actors (0.068 secs)
+[2019.01.19-05.32.42:912][580]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.19-05.32.46:691][ 10]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.01.19-05.32.46:691][ 10]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.01.19-05.32.46:692][ 10]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.01.19-05.32.46:692][ 10]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.01.19-05.32.46:692][ 10]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.01.19-05.32.46:693][ 10]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.01.19-05.32.46:693][ 10]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.01.19-05.32.46:693][ 10]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.01.19-05.32.46:694][ 10]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.01.19-05.32.46:694][ 10]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.01.19-05.32.46:694][ 10]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.01.19-05.32.46:695][ 10]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.01.19-05.32.46:721][ 10]LogEditorActor: Deleted 12 Actors (0.036 secs)
+[2019.01.19-05.32.48:691][236]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.19-05.32.48:931][236]LogSavePackage: Moving '../../../../../../Users/Ryan/Documents/GitHub/TheOnioning2019/TheOnioning/Saved/Chapter3_MAPA623B49F42D00D612CDA5FB632D00132.tmp' to '../../../../../../Users/Ryan/Documents/GitHub/TheOnioning2019/TheOnioning/Content/Maps/Main/Chapter3_MAP.umap'
+[2019.01.19-05.32.51:044][465]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.19-05.32.53:473][724]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.19-05.33.07:731][375]Cmd: TRANSACTION UNDO
+[2019.01.19-05.33.07:731][375]LogEditorTransaction: Undo Foliage Editing
+[2019.01.19-05.33.11:413][771]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.19-05.33.18:271][556]Cmd: TRANSACTION UNDO
+[2019.01.19-05.33.18:271][556]LogEditorTransaction: Undo Foliage Editing
+[2019.01.19-05.33.18:540][571]Cmd: TRANSACTION UNDO
+[2019.01.19-05.33.18:540][571]LogEditorTransaction: Undo Foliage Editing
+[2019.01.19-05.33.19:009][614]Cmd: TRANSACTION UNDO
+[2019.01.19-05.33.19:009][614]LogEditorTransaction: Undo Edit Min
+[2019.01.19-05.33.21:659][917]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.19-05.33.25:846][414]Cmd: TRANSACTION UNDO
+[2019.01.19-05.33.25:846][414]LogEditorTransaction: Undo Foliage Editing
+[2019.01.19-05.33.27:116][536]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.19-05.33.35:042][471]Cmd: TRANSACTION UNDO
+[2019.01.19-05.33.35:042][471]LogEditorTransaction: Undo Foliage Editing
+[2019.01.19-05.33.39:584][959]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.19-05.33.39:679][970]LogActorComponent: UnregisterComponent: (/Engine/Transient.SphereBrushComponent) Not registered. Aborting.
+[2019.01.19-05.33.48:961][ 11]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.19-05.33.49:401][ 63]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.19-05.33.49:422][ 63]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.19-05.33.49:422][ 63]PIE: New page: PIE session: Chapter3_MAP (Jan 18, 2019, 1:33:49 PM)
+[2019.01.19-05.33.49:422][ 63]LogPlayLevel: Creating play world package: /Game/Maps/Main/UEDPIE_0_Chapter3_MAP
+[2019.01.19-05.33.49:433][ 63]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011095s)
+[2019.01.19-05.33.49:434][ 63]LogAIModule: Creating AISystem for world Chapter3_MAP
+[2019.01.19-05.33.49:434][ 63]LogPlayLevel: PIE: World Init took: (0.000658s)
+[2019.01.19-05.33.49:434][ 63]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main/Chapter3_MAP.Chapter3_MAP to /Game/Maps/Main/UEDPIE_0_Chapter3_MAP.Chapter3_MAP (0.011877s)
+[2019.01.19-05.33.49:475][ 63]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.01.19-05.33.49:486][ 63]LogInit: FAudioDevice initialized.
+[2019.01.19-05.33.49:522][ 63]LogLoad: Game class is 'Player_GM_C'
+[2019.01.19-05.33.49:525][ 63]LogWorld: Bringing World /Game/Maps/Main/UEDPIE_0_Chapter3_MAP.Chapter3_MAP up for play (max tick rate 0) at 2019.01.18-21.33.49
+[2019.01.19-05.33.49:525][ 63]LogWorld: Bringing up level for play took: 0.002027
+[2019.01.19-05.33.49:537][ 63]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.01.19-05.33.49:538][ 63]PIE: Play in editor start time for /Game/Maps/Main/UEDPIE_0_Chapter3_MAP 0.147
+[2019.01.19-05.34.28:200][698]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.19-05.34.28:239][698]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.19-05.34.28:269][698]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.19-05.34.28:300][700]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2019.01.19-05.34.29:551][849]Cmd: POLY SELECT ALL
+[2019.01.19-05.34.33:008][223]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.19-05.34.37:430][748]Cmd: TRANSACTION UNDO
+[2019.01.19-05.34.37:430][748]LogEditorTransaction: Undo Foliage Editing
+[2019.01.19-05.34.37:725][766]Cmd: TRANSACTION UNDO
+[2019.01.19-05.34.37:725][766]LogEditorTransaction: Undo Select All
+[2019.01.19-05.34.38:103][796]Cmd: TRANSACTION UNDO
+[2019.01.19-05.34.38:103][796]LogEditorTransaction: Undo Edit Intensity
+[2019.01.19-05.34.38:485][834]Cmd: TRANSACTION UNDO
+[2019.01.19-05.34.38:485][834]LogEditorTransaction: Undo Clicking on Actors
+[2019.01.19-05.34.39:475][951]Cmd: TRANSACTION UNDO
+[2019.01.19-05.34.39:476][951]LogEditorTransaction: Undo Foliage Editing
+[2019.01.19-05.34.41:724][219]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.19-05.35.06:188][127]Cmd: TRANSACTION UNDO
+[2019.01.19-05.35.06:188][127]LogEditorTransaction: Undo Foliage Editing
+[2019.01.19-05.35.07:557][259]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.19-05.35.28:936][433]Cmd: TRANSACTION UNDO
+[2019.01.19-05.35.28:936][433]LogEditorTransaction: Undo Foliage Editing
+[2019.01.19-05.35.32:863][864]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.19-05.35.41:548][818]Cmd: TRANSACTION UNDO
+[2019.01.19-05.35.41:548][818]LogEditorTransaction: Undo Foliage Editing
+[2019.01.19-05.35.43:248][985]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.19-05.35.49:728][704]Cmd: TRANSACTION UNDO
+[2019.01.19-05.35.49:728][704]LogEditorTransaction: Undo Foliage Editing
+[2019.01.19-05.35.50:808][810]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.19-05.36.16:509][782]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.19-05.36.16:596][792]LogActorComponent: UnregisterComponent: (/Engine/Transient.SphereBrushComponent) Not registered. Aborting.
+[2019.01.19-05.36.22:948][531]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.19-05.36.34:191][831]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.19-05.36.34:754][898]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.19-05.36.34:773][898]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.19-05.36.34:774][898]PIE: New page: PIE session: Chapter3_MAP (Jan 18, 2019, 1:36:34 PM)
+[2019.01.19-05.36.34:774][898]LogPlayLevel: Creating play world package: /Game/Maps/Main/UEDPIE_0_Chapter3_MAP
+[2019.01.19-05.36.34:787][898]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013332s)
+[2019.01.19-05.36.34:788][898]LogAIModule: Creating AISystem for world Chapter3_MAP
+[2019.01.19-05.36.34:788][898]LogPlayLevel: PIE: World Init took: (0.001035s)
+[2019.01.19-05.36.34:788][898]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main/Chapter3_MAP.Chapter3_MAP to /Game/Maps/Main/UEDPIE_0_Chapter3_MAP.Chapter3_MAP (0.014527s)
+[2019.01.19-05.36.34:830][898]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.01.19-05.36.34:840][898]LogInit: FAudioDevice initialized.
+[2019.01.19-05.36.34:873][898]LogLoad: Game class is 'Player_GM_C'
+[2019.01.19-05.36.34:875][898]LogWorld: Bringing World /Game/Maps/Main/UEDPIE_0_Chapter3_MAP.Chapter3_MAP up for play (max tick rate 0) at 2019.01.18-21.36.34
+[2019.01.19-05.36.34:876][898]LogWorld: Bringing up level for play took: 0.002058
+[2019.01.19-05.36.34:888][898]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.01.19-05.36.34:889][898]PIE: Play in editor start time for /Game/Maps/Main/UEDPIE_0_Chapter3_MAP -0.503
+[2019.01.19-05.37.01:528][ 89]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.19-05.37.01:566][ 89]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.19-05.37.01:593][ 89]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.19-05.37.01:633][ 92]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2019.01.19-05.37.01:920][124]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.19-05.37.02:210][124]LogSavePackage: Moving '../../../../../../Users/Ryan/Documents/GitHub/TheOnioning2019/TheOnioning/Saved/Chapter3_MAPAE1DE20B48ECCB9F6DB6A9A62BC20F2E.tmp' to '../../../../../../Users/Ryan/Documents/GitHub/TheOnioning2019/TheOnioning/Content/Maps/Main/Chapter3_MAP.umap'
+[2019.01.19-05.37.04:209][335]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.19-05.37.04:902][416]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.19-05.37.16:652][810]Cmd: MAP LOAD FILE="../../../../../../Users/Ryan/Documents/GitHub/TheOnioning2019/TheOnioning/Content/Maps/Main/Chapter1_MAP.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.01.19-05.37.16:664][810]LightingResults: New page: Lighting Build
+[2019.01.19-05.37.16:665][810]LoadErrors: New page: Loading map: Chapter1_MAP.umap
+[2019.01.19-05.37.16:666][810]MapCheck: New page: Map Check
+[2019.01.19-05.37.16:666][810]LightingResults: New page: Lighting Build
+[2019.01.19-05.37.16:777][810]LogAIModule: Creating AISystem for world Chapter1_MAP
+[2019.01.19-05.37.16:876][810]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.01.19-05.37.16:940][810]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.01.19-05.37.17:047][810]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 106.623ms to complete.
+[2019.01.19-05.37.17:047][810]LogFileHelpers: Loading map 'Chapter1_MAP' took 0.396
+[2019.01.19-05.37.17:048][810]LogSlate: Window 'Open Level' being destroyed
+[2019.01.19-05.37.33:176][713]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.19-05.37.33:597][713]LogSavePackage: Moving '../../../../../../Users/Ryan/Documents/GitHub/TheOnioning2019/TheOnioning/Saved/Chapter1_MAPFD05D02841BB0519C802489B23E65BD6.tmp' to '../../../../../../Users/Ryan/Documents/GitHub/TheOnioning2019/TheOnioning/Content/Maps/Main/Chapter1_MAP.umap'
+[2019.01.19-05.37.35:696][920]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.19-05.37.38:396][240]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.19-05.37.40:834][521]Cmd: MAP LOAD FILE="../../../../../../Users/Ryan/Documents/GitHub/TheOnioning2019/TheOnioning/Content/Maps/Main/Chapter1V1_MAP.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.01.19-05.37.40:845][521]LightingResults: New page: Lighting Build
+[2019.01.19-05.37.40:845][521]LoadErrors: New page: Loading map: Chapter1V1_MAP.umap
+[2019.01.19-05.37.40:847][521]MapCheck: New page: Map Check
+[2019.01.19-05.37.40:847][521]LightingResults: New page: Lighting Build
+[2019.01.19-05.37.41:041][521]LogAIModule: Creating AISystem for world Chapter1V1_MAP
+[2019.01.19-05.37.41:123][521]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.01.19-05.37.41:182][521]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.01.19-05.37.41:286][521]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 104.047ms to complete.
+[2019.01.19-05.37.41:286][521]LogFileHelpers: Loading map 'Chapter1V1_MAP' took 0.453
+[2019.01.19-05.37.41:288][521]LogSlate: Window 'Open Level' being destroyed
+[2019.01.19-05.39.01:557][895]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.19-05.39.03:829][154]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2019.01.19-05.39.09:429][570]Cmd: DELETE
+[2019.01.19-05.39.09:429][570]Cmd: ACTOR DELETE
+[2019.01.19-05.39.09:463][570]LogEditorActor: Deleted Actor: Brush
+[2019.01.19-05.39.11:904][570]LogEditorActor: Deleted 1 Actors (2.476 secs)
+[2019.01.19-05.39.12:445][625]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.19-05.39.14:138][814]Cmd: DELETE
+[2019.01.19-05.39.14:138][814]Cmd: ACTOR DELETE
+[2019.01.19-05.39.14:158][814]LogEditorActor: Deleted Actor: Brush
+[2019.01.19-05.39.15:922][814]LogEditorActor: Deleted 1 Actors (1.783 secs)
+[2019.01.19-05.39.16:656][882]Cmd: DELETE
+[2019.01.19-05.39.16:656][882]Cmd: ACTOR DELETE
+[2019.01.19-05.39.16:677][882]LogEditorActor: Deleted Actor: Brush
+[2019.01.19-05.39.20:744][882]LogEditorActor: Deleted 1 Actors (4.087 secs)
+[2019.01.19-05.39.22:098][ 31]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.19-05.39.26:610][560]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush40)
+[2019.01.19-05.39.27:458][652]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush30)
+[2019.01.19-05.39.28:400][759]Cmd: DELETE
+[2019.01.19-05.39.28:400][759]Cmd: ACTOR DELETE
+[2019.01.19-05.39.28:420][759]LogEditorActor: Deleted Actor: Brush
+[2019.01.19-05.39.30:146][759]LogEditorActor: Deleted 1 Actors (1.746 secs)
+[2019.01.19-05.39.31:935][964]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush139)
+[2019.01.19-05.39.32:769][ 59]Cmd: DELETE
+[2019.01.19-05.39.32:769][ 59]Cmd: ACTOR DELETE
+[2019.01.19-05.39.32:792][ 59]LogEditorActor: Deleted Actor: Brush
+[2019.01.19-05.39.36:315][ 59]LogEditorActor: Deleted 1 Actors (3.546 secs)
+[2019.01.19-05.39.37:119][146]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush31)
+[2019.01.19-05.39.37:478][184]Cmd: DELETE
+[2019.01.19-05.39.37:478][184]Cmd: ACTOR DELETE
+[2019.01.19-05.39.37:502][184]LogEditorActor: Deleted Actor: Brush
+[2019.01.19-05.39.40:251][184]LogEditorActor: Deleted 1 Actors (2.773 secs)
+[2019.01.19-05.39.43:653][579]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.19-05.39.50:945][402]Cmd: DELETE
+[2019.01.19-05.39.50:945][402]Cmd: ACTOR DELETE
+[2019.01.19-05.39.50:969][402]LogEditorActor: Deleted Actor: Brush
+[2019.01.19-05.39.52:263][402]LogEditorActor: Deleted 1 Actors (1.317 secs)
+[2019.01.19-05.39.52:757][452]Cmd: TRANSACTION UNDO
+[2019.01.19-05.39.52:758][452]LogEditorTransaction: Undo Delete Actors
+[2019.01.19-05.39.52:854][452]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/Main/Chapter1V1_MAP.Chapter1V1_MAP:PersistentLevel.BoxBrush22.BrushComponent0) Component already registered.
+[2019.01.19-05.39.52:854][452]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/Main/Chapter1V1_MAP.Chapter1V1_MAP:PersistentLevel.BoxBrush45.BrushComponent0) Component already registered.
+[2019.01.19-05.39.52:855][452]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/Main/Chapter1V1_MAP.Chapter1V1_MAP:PersistentLevel.BoxBrush60_84.BrushComponent0) Component already registered.
+[2019.01.19-05.39.52:870][452]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/Main/Chapter1V1_MAP.Chapter1V1_MAP:PersistentLevel.BoxBrush121.BrushComponent0) Component already registered.
+[2019.01.19-05.39.52:876][452]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/Main/Chapter1V1_MAP.Chapter1V1_MAP:PersistentLevel.BoxBrush94.BrushComponent0) Component already registered.
+[2019.01.19-05.39.55:709][612]Cmd: DELETE
+[2019.01.19-05.39.55:709][612]Cmd: ACTOR DELETE
+[2019.01.19-05.39.55:736][612]LogEditorActor: Deleted Actor: Brush
+[2019.01.19-05.39.57:988][612]LogEditorActor: Deleted 1 Actors (2.278 secs)
+[2019.01.19-05.39.58:913][705]Cmd: DELETE
+[2019.01.19-05.39.58:913][705]Cmd: ACTOR DELETE
+[2019.01.19-05.39.58:938][705]LogEditorActor: Deleted Actor: Brush
+[2019.01.19-05.40.00:246][705]LogEditorActor: Deleted 1 Actors (1.332 secs)
+[2019.01.19-05.40.00:894][765]Cmd: DELETE
+[2019.01.19-05.40.00:894][765]Cmd: ACTOR DELETE
+[2019.01.19-05.40.00:921][765]LogEditorActor: Deleted Actor: Brush
+[2019.01.19-05.40.03:812][765]LogEditorActor: Deleted 1 Actors (2.918 secs)
+[2019.01.19-05.40.04:822][858]Cmd: DELETE
+[2019.01.19-05.40.04:822][858]Cmd: ACTOR DELETE
+[2019.01.19-05.40.04:847][858]LogEditorActor: Deleted Actor: Brush
+[2019.01.19-05.40.06:557][858]LogEditorActor: Deleted 1 Actors (1.733 secs)
+[2019.01.19-05.40.27:571][ 22]Cmd: DELETE
+[2019.01.19-05.40.27:571][ 22]Cmd: ACTOR DELETE
+[2019.01.19-05.40.27:599][ 22]LogEditorActor: Deleted Actor: Brush
+[2019.01.19-05.40.27:600][ 22]LogEditorActor: Deleted Actor: Brush
+[2019.01.19-05.40.27:600][ 22]LogEditorActor: Deleted Actor: Brush
+[2019.01.19-05.40.27:601][ 22]LogEditorActor: Deleted Actor: Brush
+[2019.01.19-05.40.27:601][ 22]LogEditorActor: Deleted Actor: Brush
+[2019.01.19-05.40.27:601][ 22]LogEditorActor: Deleted Actor: Brush
+[2019.01.19-05.40.27:602][ 22]LogEditorActor: Deleted Actor: Brush
+[2019.01.19-05.40.27:602][ 22]LogEditorActor: Deleted Actor: Brush
+[2019.01.19-05.40.27:603][ 22]LogEditorActor: Deleted Actor: Brush
+[2019.01.19-05.40.27:603][ 22]LogEditorActor: Deleted Actor: Brush
+[2019.01.19-05.40.27:603][ 22]LogEditorActor: Deleted Actor: Brush
+[2019.01.19-05.40.27:604][ 22]LogEditorActor: Deleted Actor: Brush
+[2019.01.19-05.40.27:604][ 22]LogEditorActor: Deleted Actor: Brush
+[2019.01.19-05.40.27:604][ 22]LogEditorActor: Deleted Actor: Brush
+[2019.01.19-05.40.28:463][ 22]LogEditorActor: Deleted 14 Actors (0.892 secs)
+[2019.01.19-05.40.38:211][954]Cmd: DELETE
+[2019.01.19-05.40.38:211][954]Cmd: ACTOR DELETE
+[2019.01.19-05.40.38:230][954]LogEditorActor: Deleted Actor: Brush
+[2019.01.19-05.40.38:230][954]LogEditorActor: Deleted Actor: Brush
+[2019.01.19-05.40.38:230][954]LogEditorActor: Deleted Actor: Brush
+[2019.01.19-05.40.38:231][954]LogEditorActor: Deleted Actor: Brush
+[2019.01.19-05.40.38:231][954]LogEditorActor: Deleted Actor: Brush
+[2019.01.19-05.40.38:231][954]LogEditorActor: Deleted Actor: Brush
+[2019.01.19-05.40.38:232][954]LogEditorActor: Deleted Actor: Brush
+[2019.01.19-05.40.38:232][954]LogEditorActor: Deleted Actor: Brush
+[2019.01.19-05.40.39:354][954]LogEditorActor: Deleted 8 Actors (1.143 secs)
+[2019.01.19-05.40.56:084][605]Cmd: DELETE
+[2019.01.19-05.40.56:085][605]Cmd: ACTOR DELETE
+[2019.01.19-05.40.56:104][605]LogEditorActor: Deleted Actor: Brush
+[2019.01.19-05.40.56:104][605]LogEditorActor: Deleted Actor: Brush
+[2019.01.19-05.40.56:105][605]LogEditorActor: Deleted Actor: Brush
+[2019.01.19-05.40.56:105][605]LogEditorActor: Deleted Actor: Brush
+[2019.01.19-05.40.56:105][605]LogEditorActor: Deleted Actor: Brush
+[2019.01.19-05.40.56:106][605]LogEditorActor: Deleted Actor: Brush
+[2019.01.19-05.40.56:106][605]LogEditorActor: Deleted Actor: Brush
+[2019.01.19-05.40.56:106][605]LogEditorActor: Deleted Actor: Brush
+[2019.01.19-05.40.56:107][605]LogEditorActor: Deleted Actor: Brush
+[2019.01.19-05.40.56:107][605]LogEditorActor: Deleted Actor: Brush
+[2019.01.19-05.40.56:107][605]LogEditorActor: Deleted Actor: Brush
+[2019.01.19-05.40.56:108][605]LogEditorActor: Deleted Actor: Brush
+[2019.01.19-05.40.56:810][605]LogEditorActor: Deleted 12 Actors (0.726 secs)
+[2019.01.19-05.40.58:299][767]Cmd: DELETE
+[2019.01.19-05.40.58:299][767]Cmd: ACTOR DELETE
+[2019.01.19-05.40.58:315][767]LogEditorActor: Deleted Actor: Brush
+[2019.01.19-05.40.58:773][767]LogEditorActor: Deleted 1 Actors (0.474 secs)
+[2019.01.19-05.40.59:950][893]Cmd: DELETE
+[2019.01.19-05.40.59:950][893]Cmd: ACTOR DELETE
+[2019.01.19-05.40.59:965][893]LogEditorActor: Deleted Actor: Brush
+[2019.01.19-05.41.00:426][893]LogEditorActor: Deleted 1 Actors (0.475 secs)
+[2019.01.19-05.41.00:963][942]Cmd: DELETE
+[2019.01.19-05.41.00:963][942]Cmd: ACTOR DELETE
+[2019.01.19-05.41.00:979][942]LogEditorActor: Deleted Actor: Brush
+[2019.01.19-05.41.01:787][942]LogEditorActor: Deleted 1 Actors (0.824 secs)
+[2019.01.19-05.41.02:353][996]Cmd: DELETE
+[2019.01.19-05.41.02:353][996]Cmd: ACTOR DELETE
+[2019.01.19-05.41.02:368][996]LogEditorActor: Deleted Actor: Brush
+[2019.01.19-05.41.02:886][996]LogEditorActor: Deleted 1 Actors (0.533 secs)
+[2019.01.19-05.41.10:496][887]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.19-05.41.14:808][359]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.19-05.41.18:768][814]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.19-05.41.22:265][218]LogSlate: Window 'Color Picker' being destroyed
+[2019.01.19-05.41.23:874][408]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.19-05.41.31:896][298]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.19-05.41.36:045][777]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.19-05.41.42:821][555]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.19-05.41.43:415][555]LogSavePackage: Moving '../../../../../../Users/Ryan/Documents/GitHub/TheOnioning2019/TheOnioning/Saved/Chapter1V1_MAPD6372F5141AD439A5C43A6B16A3CF8C5.tmp' to '../../../../../../Users/Ryan/Documents/GitHub/TheOnioning2019/TheOnioning/Content/Maps/Main/Chapter1V1_MAP.umap'
+[2019.01.19-05.41.45:420][747]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.19-05.41.52:626][519]LogAIModule: Creating AISystem for world Chapter1_MAP
+[2019.01.19-05.41.52:741][519]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.19-05.41.54:606][729]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.19-05.42.03:535][793]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.19-05.42.03:671][793]LogMetaData: Removing '/Game/Maps/Main/Chapter1-ALT_MAP.Chapter1-ALT_MAP_C' ref from Metadata '/Game/Maps/Main/Chapter1_MAP.PackageMetaData'
+[2019.01.19-05.42.03:671][793]LogMetaData: Removing '/Game/Maps/Main/Chapter1-ALT_MAP.SKEL_Chapter1-ALT_MAP_C' ref from Metadata '/Game/Maps/Main/Chapter1_MAP.PackageMetaData'
+[2019.01.19-05.42.08:502][793]LogSlate: Window 'Message' being destroyed
+[2019.01.19-05.42.08:507][793]LogSavePackage: Warning: 
+Referencers of LandscapeMaterialInstanceConstant /Game/Maps/Main/Chapter1_MAP.LandscapeMaterialInstanceConstant_2:
+[2019.01.19-05.42.08:552][793]LogSavePackage: Warning: 	LandscapeComponent /Game/Maps/Main/Chapter1-ALT_MAP.Chapter1-ALT_MAP:PersistentLevel.Landscape_0.LandscapeComponent_0 (1 refs)
+[2019.01.19-05.42.08:552][793]LogSavePackage: Warning: 		0) ObjectProperty /Script/Landscape.LandscapeComponent:MobileCombinationMaterialInstance
+[2019.01.19-05.42.08:552][793]LogSavePackage: Warning: 	LandscapeComponent /Game/Maps/Main/Chapter1-ALT_MAP.Chapter1-ALT_MAP:PersistentLevel.Landscape_0.LandscapeComponent_1 (1 refs)
+[2019.01.19-05.42.08:552][793]LogSavePackage: Warning: 		0) ObjectProperty /Script/Landscape.LandscapeComponent:MobileCombinationMaterialInstance
+[2019.01.19-05.42.08:552][793]LogSavePackage: Warning: 	LandscapeComponent /Game/Maps/Main/Chapter1-ALT_MAP.Chapter1-ALT_MAP:PersistentLevel.Landscape_0.LandscapeComponent_2 (1 refs)
+[2019.01.19-05.42.08:552][793]LogSavePackage: Warning: 		0) ObjectProperty /Script/Landscape.LandscapeComponent:MobileCombinationMaterialInstance
+[2019.01.19-05.42.08:552][793]LogSavePackage: Warning: 	LandscapeComponent /Game/Maps/Main/Chapter1-ALT_MAP.Chapter1-ALT_MAP:PersistentLevel.Landscape_0.LandscapeComponent_3 (1 refs)
+[2019.01.19-05.42.08:552][793]LogSavePackage: Warning: 		0) ObjectProperty /Script/Landscape.LandscapeComponent:MobileCombinationMaterialInstance
+[2019.01.19-05.42.08:552][793]LogSavePackage: Warning: 	LandscapeComponent /Game/Maps/Main/Chapter1-ALT_MAP.Chapter1-ALT_MAP:PersistentLevel.Landscape_0.LandscapeComponent_4 (1 refs)
+[2019.01.19-05.42.08:552][793]LogSavePackage: Warning: 		0) ObjectProperty /Script/Landscape.LandscapeComponent:MobileCombinationMaterialInstance
+[2019.01.19-05.42.08:552][793]LogSavePackage: Warning: 	LandscapeComponent /Game/Maps/Main/Chapter1-ALT_MAP.Chapter1-ALT_MAP:PersistentLevel.Landscape_0.LandscapeComponent_5 (1 refs)
+[2019.01.19-05.42.08:552][793]LogSavePackage: Warning: 		0) ObjectProperty /Script/Landscape.LandscapeComponent:MobileCombinationMaterialInstance
+[2019.01.19-05.42.08:552][793]LogSavePackage: Warning: 	LandscapeComponent /Game/Maps/Main/Chapter1-ALT_MAP.Chapter1-ALT_MAP:PersistentLevel.Landscape_0.LandscapeComponent_6 (1 refs)
+[2019.01.19-05.42.08:552][793]LogSavePackage: Warning: 		0) ObjectProperty /Script/Landscape.LandscapeComponent:MobileCombinationMaterialInstance
+[2019.01.19-05.42.08:552][793]LogSavePackage: Warning: 	LandscapeComponent /Game/Maps/Main/Chapter1-ALT_MAP.Chapter1-ALT_MAP:PersistentLevel.Landscape_0.LandscapeComponent_7 (1 refs)
+[2019.01.19-05.42.08:552][793]LogSavePackage: Warning: 		0) ObjectProperty /Script/Landscape.LandscapeComponent:MobileCombinationMaterialInstance
+[2019.01.19-05.42.08:552][793]LogSavePackage: Warning: 	LandscapeComponent /Game/Maps/Main/Chapter1-ALT_MAP.Chapter1-ALT_MAP:PersistentLevel.Landscape_0.LandscapeComponent_8 (1 refs)
+[2019.01.19-05.42.08:552][793]LogSavePackage: Warning: 		0) ObjectProperty /Script/Landscape.LandscapeComponent:MobileCombinationMaterialInstance
+[2019.01.19-05.42.08:552][793]LogSavePackage: Warning: 	LandscapeComponent /Game/Maps/Main/Chapter1-ALT_MAP.Chapter1-ALT_MAP:PersistentLevel.Landscape_0.LandscapeComponent_9 (1 refs)
+[2019.01.19-05.42.08:552][793]LogSavePackage: Warning: 		0) ObjectProperty /Script/Landscape.LandscapeComponent:MobileCombinationMaterialInstance
+[2019.01.19-05.42.08:552][793]LogSavePackage: Warning: 	LandscapeComponent /Game/Maps/Main/Chapter1-ALT_MAP.Chapter1-ALT_MAP:PersistentLevel.Landscape_0.LandscapeComponent_10 (1 refs)
+[2019.01.19-05.42.08:552][793]LogSavePackage: Warning: 		0) ObjectProperty /Script/Landscape.LandscapeComponent:MobileCombinationMaterialInstance
+[2019.01.19-05.42.08:552][793]LogSavePackage: Warning: 	LandscapeComponent /Game/Maps/Main/Chapter1-ALT_MAP.Chapter1-ALT_MAP:PersistentLevel.Landscape_0.LandscapeComponent_11 (1 refs)
+[2019.01.19-05.42.08:552][793]LogSavePackage: Warning: 		0) ObjectProperty /Script/Landscape.LandscapeComponent:MobileCombinationMaterialInstance
+[2019.01.19-05.42.08:552][793]LogSavePackage: Warning: 	LandscapeComponent /Game/Maps/Main/Chapter1-ALT_MAP.Chapter1-ALT_MAP:PersistentLevel.Landscape_0.LandscapeComponent_12 (1 refs)
+[2019.01.19-05.42.08:552][793]LogSavePackage: Warning: 		0) ObjectProperty /Script/Landscape.LandscapeComponent:MobileCombinationMaterialInstance
+[2019.01.19-05.42.08:552][793]LogSavePackage: Warning: 	LandscapeComponent /Game/Maps/Main/Chapter1-ALT_MAP.Chapter1-ALT_MAP:PersistentLevel.Landscape_0.LandscapeComponent_13 (1 refs)
+[2019.01.19-05.42.08:552][793]LogSavePackage: Warning: 		0) ObjectProperty /Script/Landscape.LandscapeComponent:MobileCombinationMaterialInstance
+[2019.01.19-05.42.08:552][793]LogSavePackage: Warning: 	LandscapeComponent /Game/Maps/Main/Chapter1-ALT_MAP.Chapter1-ALT_MAP:PersistentLevel.Landscape_0.LandscapeComponent_14 (1 refs)
+[2019.01.19-05.42.08:552][793]LogSavePackage: Warning: 		0) ObjectProperty /Script/Landscape.LandscapeComponent:MobileCombinationMaterialInstance
+[2019.01.19-05.42.08:552][793]LogSavePackage: Warning: 	LandscapeComponent /Game/Maps/Main/Chapter1-ALT_MAP.Chapter1-ALT_MAP:PersistentLevel.Landscape_0.LandscapeComponent_15 (1 refs)
+[2019.01.19-05.42.08:552][793]LogSavePackage: Warning: 		0) ObjectProperty /Script/Landscape.LandscapeComponent:MobileCombinationMaterialInstance
+[2019.01.19-05.42.08:552][793]LogSavePackage: Warning: 	LandscapeComponent /Game/Maps/Main/Chapter1-ALT_MAP.Chapter1-ALT_MAP:PersistentLevel.Landscape_0.LandscapeComponent_16 (1 refs)
+[2019.01.19-05.42.08:552][793]LogSavePackage: Warning: 		0) ObjectProperty /Script/Landscape.LandscapeComponent:MobileCombinationMaterialInstance
+[2019.01.19-05.42.08:552][793]LogSavePackage: Warning: 	LandscapeComponent /Game/Maps/Main/Chapter1-ALT_MAP.Chapter1-ALT_MAP:PersistentLevel.Landscape_0.LandscapeComponent_17 (1 refs)
+[2019.01.19-05.42.08:552][793]LogSavePackage: Warning: 		0) ObjectProperty /Script/Landscape.LandscapeComponent:MobileCombinationMaterialInstance
+[2019.01.19-05.42.08:552][793]LogSavePackage: Warning: 	LandscapeComponent /Game/Maps/Main/Chapter1-ALT_MAP.Chapter1-ALT_MAP:PersistentLevel.Landscape_0.LandscapeComponent_18 (1 refs)
+[2019.01.19-05.42.08:552][793]LogSavePackage: Warning: 		0) ObjectProperty /Script/Landscape.LandscapeComponent:MobileCombinationMaterialInstance
+[2019.01.19-05.42.08:552][793]LogSavePackage: Warning: 	LandscapeComponent /Game/Maps/Main/Chapter1-ALT_MAP.Chapter1-ALT_MAP:PersistentLevel.Landscape_0.LandscapeComponent_19 (1 refs)
+[2019.01.19-05.42.08:552][793]LogSavePackage: Warning: 		0) ObjectProperty /Script/Landscape.LandscapeComponent:MobileCombinationMaterialInstance
+[2019.01.19-05.42.08:552][793]LogSavePackage: Warning: 	LandscapeComponent /Game/Maps/Main/Chapter1-ALT_MAP.Chapter1-ALT_MAP:PersistentLevel.Landscape_0.LandscapeComponent_20 (1 refs)
+[2019.01.19-05.42.08:553][793]LogSavePackage: Warning: 		0) ObjectProperty /Script/Landscape.LandscapeComponent:MobileCombinationMaterialInstance
+[2019.01.19-05.42.08:553][793]LogSavePackage: Warning: 	LandscapeComponent /Game/Maps/Main/Chapter1-ALT_MAP.Chapter1-ALT_MAP:PersistentLevel.Landscape_0.LandscapeComponent_21 (1 refs)
+[2019.01.19-05.42.08:553][793]LogSavePackage: Warning: 		0) ObjectProperty /Script/Landscape.LandscapeComponent:MobileCombinationMaterialInstance
+[2019.01.19-05.42.08:553][793]LogSavePackage: Warning: 	LandscapeComponent /Game/Maps/Main/Chapter1-ALT_MAP.Chapter1-ALT_MAP:PersistentLevel.Landscape_0.LandscapeComponent_22 (1 refs)
+[2019.01.19-05.42.08:553][793]LogSavePackage: Warning: 		0) ObjectProperty /Script/Landscape.LandscapeComponent:MobileCombinationMaterialInstance
+[2019.01.19-05.42.08:553][793]LogSavePackage: Warning: 	LandscapeComponent /Game/Maps/Main/Chapter1-ALT_MAP.Chapter1-ALT_MAP:PersistentLevel.Landscape_0.LandscapeComponent_23 (1 refs)
+[2019.01.19-05.42.08:553][793]LogSavePackage: Warning: 		0) ObjectProperty /Script/Landscape.LandscapeComponent:MobileCombinationMaterialInstance
+[2019.01.19-05.42.08:553][793]LogSavePackage: Warning: 	LandscapeComponent /Game/Maps/Main/Chapter1-ALT_MAP.Chapter1-ALT_MAP:PersistentLevel.Landscape_0.LandscapeComponent_24 (1 refs)
+[2019.01.19-05.42.08:553][793]LogSavePackage: Warning: 		0) ObjectProperty /Script/Landscape.LandscapeComponent:MobileCombinationMaterialInstance
+[2019.01.19-05.42.08:553][793]LogSavePackage: Warning: 	LandscapeComponent /Game/Maps/Main/Chapter1-ALT_MAP.Chapter1-ALT_MAP:PersistentLevel.Landscape_0.LandscapeComponent_25 (1 refs)
+[2019.01.19-05.42.08:553][793]LogSavePackage: Warning: 		0) ObjectProperty /Script/Landscape.LandscapeComponent:MobileCombinationMaterialInstance
+[2019.01.19-05.42.08:553][793]LogSavePackage: Warning: 	LandscapeComponent /Game/Maps/Main/Chapter1-ALT_MAP.Chapter1-ALT_MAP:PersistentLevel.Landscape_0.LandscapeComponent_26 (1 refs)
+[2019.01.19-05.42.08:553][793]LogSavePackage: Warning: 		0) ObjectProperty /Script/Landscape.LandscapeComponent:MobileCombinationMaterialInstance
+[2019.01.19-05.42.08:553][793]LogSavePackage: Warning: 	LandscapeComponent /Game/Maps/Main/Chapter1-ALT_MAP.Chapter1-ALT_MAP:PersistentLevel.Landscape_0.LandscapeComponent_27 (1 refs)
+[2019.01.19-05.42.08:553][793]LogSavePackage: Warning: 		0) ObjectProperty /Script/Landscape.LandscapeComponent:MobileCombinationMaterialInstance
+[2019.01.19-05.42.08:553][793]LogSavePackage: Warning: 	LandscapeComponent /Game/Maps/Main/Chapter1-ALT_MAP.Chapter1-ALT_MAP:PersistentLevel.Landscape_0.LandscapeComponent_28 (1 refs)
+[2019.01.19-05.42.08:553][793]LogSavePackage: Warning: 		0) ObjectProperty /Script/Landscape.LandscapeComponent:MobileCombinationMaterialInstance
+[2019.01.19-05.42.08:553][793]LogSavePackage: Warning: 	LandscapeComponent /Game/Maps/Main/Chapter1-ALT_MAP.Chapter1-ALT_MAP:PersistentLevel.Landscape_0.LandscapeComponent_29 (1 refs)
+[2019.01.19-05.42.08:553][793]LogSavePackage: Warning: 		0) ObjectProperty /Script/Landscape.LandscapeComponent:MobileCombinationMaterialInstance
+[2019.01.19-05.42.08:553][793]LogSavePackage: Warning: 	LandscapeComponent /Game/Maps/Main/Chapter1-ALT_MAP.Chapter1-ALT_MAP:PersistentLevel.Landscape_0.LandscapeComponent_30 (1 refs)
+[2019.01.19-05.42.08:553][793]LogSavePackage: Warning: 		0) ObjectProperty /Script/Landscape.LandscapeComponent:MobileCombinationMaterialInstance
+[2019.01.19-05.42.08:553][793]LogSavePackage: Warning: 	LandscapeComponent /Game/Maps/Main/Chapter1-ALT_MAP.Chapter1-ALT_MAP:PersistentLevel.Landscape_0.LandscapeComponent_31 (1 refs)
+[2019.01.19-05.42.08:553][793]LogSavePackage: Warning: 		0) ObjectProperty /Script/Landscape.LandscapeComponent:MobileCombinationMaterialInstance
+[2019.01.19-05.42.08:553][793]LogSavePackage: Warning: 	LandscapeComponent /Game/Maps/Main/Chapter1-ALT_MAP.Chapter1-ALT_MAP:PersistentLevel.Landscape_0.LandscapeComponent_32 (1 refs)
+[2019.01.19-05.42.08:553][793]LogSavePackage: Warning: 		0) ObjectProperty /Script/Landscape.LandscapeComponent:MobileCombinationMaterialInstance
+[2019.01.19-05.42.08:553][793]LogSavePackage: Warning: 	LandscapeComponent /Game/Maps/Main/Chapter1-ALT_MAP.Chapter1-ALT_MAP:PersistentLevel.Landscape_0.LandscapeComponent_33 (1 refs)
+[2019.01.19-05.42.08:553][793]LogSavePackage: Warning: 		0) ObjectProperty /Script/Landscape.LandscapeComponent:MobileCombinationMaterialInstance
+[2019.01.19-05.42.08:553][793]LogSavePackage: Warning: 	LandscapeComponent /Game/Maps/Main/Chapter1-ALT_MAP.Chapter1-ALT_MAP:PersistentLevel.Landscape_0.LandscapeComponent_34 (1 refs)
+[2019.01.19-05.42.08:553][793]LogSavePackage: Warning: 		0) ObjectProperty /Script/Landscape.LandscapeComponent:MobileCombinationMaterialInstance
+[2019.01.19-05.42.08:553][793]LogSavePackage: Warning: 	LandscapeComponent /Game/Maps/Main/Chapter1-ALT_MAP.Chapter1-ALT_MAP:PersistentLevel.Landscape_0.LandscapeComponent_35 (1 refs)
+[2019.01.19-05.42.08:553][793]LogSavePackage: Warning: 		0) ObjectProperty /Script/Landscape.LandscapeComponent:MobileCombinationMaterialInstance
+[2019.01.19-05.42.08:553][793]LogSavePackage: Warning: 	LandscapeComponent /Game/Maps/Main/Chapter1-ALT_MAP.Chapter1-ALT_MAP:PersistentLevel.Landscape_0.LandscapeComponent_36 (1 refs)
+[2019.01.19-05.42.08:553][793]LogSavePackage: Warning: 		0) ObjectProperty /Script/Landscape.LandscapeComponent:MobileCombinationMaterialInstance
+[2019.01.19-05.42.08:553][793]LogSavePackage: Warning: 	LandscapeComponent /Game/Maps/Main/Chapter1-ALT_MAP.Chapter1-ALT_MAP:PersistentLevel.Landscape_0.LandscapeComponent_37 (1 refs)
+[2019.01.19-05.42.08:553][793]LogSavePackage: Warning: 		0) ObjectProperty /Script/Landscape.LandscapeComponent:MobileCombinationMaterialInstance
+[2019.01.19-05.42.08:553][793]LogSavePackage: Warning: 	LandscapeComponent /Game/Maps/Main/Chapter1-ALT_MAP.Chapter1-ALT_MAP:PersistentLevel.Landscape_0.LandscapeComponent_38 (1 refs)
+[2019.01.19-05.42.08:553][793]LogSavePackage: Warning: 		0) ObjectProperty /Script/Landscape.LandscapeComponent:MobileCombinationMaterialInstance
+[2019.01.19-05.42.08:553][793]LogSavePackage: Warning: 	LandscapeComponent /Game/Maps/Main/Chapter1-ALT_MAP.Chapter1-ALT_MAP:PersistentLevel.Landscape_0.LandscapeComponent_39 (1 refs)
+[2019.01.19-05.42.08:553][793]LogSavePackage: Warning: 		0) ObjectProperty /Script/Landscape.LandscapeComponent:MobileCombinationMaterialInstance
+[2019.01.19-05.42.08:553][793]LogSavePackage: Warning: 	LandscapeComponent /Game/Maps/Main/Chapter1-ALT_MAP.Chapter1-ALT_MAP:PersistentLevel.Landscape_0.LandscapeComponent_40 (1 refs)
+[2019.01.19-05.42.08:553][793]LogSavePackage: Warning: 		0) ObjectProperty /Script/Landscape.LandscapeComponent:MobileCombinationMaterialInstance
+[2019.01.19-05.42.08:553][793]LogSavePackage: Warning: 	LandscapeComponent /Game/Maps/Main/Chapter1-ALT_MAP.Chapter1-ALT_MAP:PersistentLevel.Landscape_0.LandscapeComponent_41 (1 refs)
+[2019.01.19-05.42.08:553][793]LogSavePackage: Warning: 		0) ObjectProperty /Script/Landscape.LandscapeComponent:MobileCombinationMaterialInstance
+[2019.01.19-05.42.08:553][793]LogSavePackage: Warning: 	LandscapeComponent /Game/Maps/Main/Chapter1-ALT_MAP.Chapter1-ALT_MAP:PersistentLevel.Landscape_0.LandscapeComponent_42 (1 refs)
+[2019.01.19-05.42.08:553][793]LogSavePackage: Warning: 		0) ObjectProperty /Script/Landscape.LandscapeComponent:MobileCombinationMaterialInstance
+[2019.01.19-05.42.08:553][793]LogSavePackage: Warning: 	LandscapeComponent /Game/Maps/Main/Chapter1-ALT_MAP.Chapter1-ALT_MAP:PersistentLevel.Landscape_0.LandscapeComponent_43 (1 refs)
+[2019.01.19-05.42.08:553][793]LogSavePackage: Warning: 		0) ObjectProperty /Script/Landscape.LandscapeComponent:MobileCombinationMaterialInstance
+[2019.01.19-05.42.08:553][793]LogSavePackage: Warning: 	LandscapeComponent /Game/Maps/Main/Chapter1-ALT_MAP.Chapter1-ALT_MAP:PersistentLevel.Landscape_0.LandscapeComponent_44 (1 refs)
+[2019.01.19-05.42.08:553][793]LogSavePackage: Warning: 		0) ObjectProperty /Script/Landscape.LandscapeComponent:MobileCombinationMaterialInstance
+[2019.01.19-05.42.08:553][793]LogSavePackage: Warning: 	LandscapeComponent /Game/Maps/Main/Chapter1-ALT_MAP.Chapter1-ALT_MAP:PersistentLevel.Landscape_0.LandscapeComponent_45 (1 refs)
+[2019.01.19-05.42.08:553][793]LogSavePackage: Warning: 		0) ObjectProperty /Script/Landscape.LandscapeComponent:MobileCombinationMaterialInstance
+[2019.01.19-05.42.08:553][793]LogSavePackage: Warning: 	LandscapeComponent /Game/Maps/Main/Chapter1-ALT_MAP.Chapter1-ALT_MAP:PersistentLevel.Landscape_0.LandscapeComponent_46 (1 refs)
+[2019.01.19-05.42.08:553][793]LogSavePackage: Warning: 		0) ObjectProperty /Script/Landscape.LandscapeComponent:MobileCombinationMaterialInstance
+[2019.01.19-05.42.08:553][793]LogSavePackage: Warning: 	LandscapeComponent /Game/Maps/Main/Chapter1-ALT_MAP.Chapter1-ALT_MAP:PersistentLevel.Landscape_0.LandscapeComponent_47 (1 refs)
+[2019.01.19-05.42.08:553][793]LogSavePackage: Warning: 		0) ObjectProperty /Script/Landscape.LandscapeComponent:MobileCombinationMaterialInstance
+[2019.01.19-05.42.08:553][793]LogSavePackage: Warning: 	LandscapeComponent /Game/Maps/Main/Chapter1-ALT_MAP.Chapter1-ALT_MAP:PersistentLevel.Landscape_0.LandscapeComponent_48 (1 refs)
+[2019.01.19-05.42.08:553][793]LogSavePackage: Warning: 		0) ObjectProperty /Script/Landscape.LandscapeComponent:MobileCombinationMaterialInstance
+[2019.01.19-05.42.08:553][793]LogSavePackage: Warning: 	LandscapeComponent /Game/Maps/Main/Chapter1-ALT_MAP.Chapter1-ALT_MAP:PersistentLevel.Landscape_0.LandscapeComponent_49 (1 refs)
+[2019.01.19-05.42.08:553][793]LogSavePackage: Warning: 		0) ObjectProperty /Script/Landscape.LandscapeComponent:MobileCombinationMaterialInstance
+[2019.01.19-05.42.08:553][793]LogSavePackage: Warning: 	LandscapeComponent /Game/Maps/Main/Chapter1-ALT_MAP.Chapter1-ALT_MAP:PersistentLevel.Landscape_0.LandscapeComponent_50 (1 refs)
+[2019.01.19-05.42.08:553][793]LogSavePackage: Warning: 		0) ObjectProperty /Script/Landscape.LandscapeComponent:MobileCombinationMaterialInstance
+[2019.01.19-05.42.08:554][793]LogSavePackage: Warning: 	LandscapeComponent /Game/Maps/Main/Chapter1-ALT_MAP.Chapter1-ALT_MAP:PersistentLevel.Landscape_0.LandscapeComponent_51 (1 refs)
+[2019.01.19-05.42.08:554][793]LogSavePackage: Warning: 		0) ObjectProperty /Script/Landscape.LandscapeComponent:MobileCombinationMaterialInstance
+[2019.01.19-05.42.08:554][793]LogSavePackage: Warning: 	LandscapeComponent /Game/Maps/Main/Chapter1-ALT_MAP.Chapter1-ALT_MAP:PersistentLevel.Landscape_0.LandscapeComponent_52 (1 refs)
+[2019.01.19-05.42.08:554][793]LogSavePackage: Warning: 		0) ObjectProperty /Script/Landscape.LandscapeComponent:MobileCombinationMaterialInstance
+[2019.01.19-05.42.08:554][793]LogSavePackage: Warning: 	LandscapeComponent /Game/Maps/Main/Chapter1-ALT_MAP.Chapter1-ALT_MAP:PersistentLevel.Landscape_0.LandscapeComponent_53 (1 refs)
+[2019.01.19-05.42.08:554][793]LogSavePackage: Warning: 		0) ObjectProperty /Script/Landscape.LandscapeComponent:MobileCombinationMaterialInstance
+[2019.01.19-05.42.08:554][793]LogSavePackage: Warning: 	LandscapeComponent /Game/Maps/Main/Chapter1-ALT_MAP.Chapter1-ALT_MAP:PersistentLevel.Landscape_0.LandscapeComponent_54 (1 refs)
+[2019.01.19-05.42.08:554][793]LogSavePackage: Warning: 		0) ObjectProperty /Script/Landscape.LandscapeComponent:MobileCombinationMaterialInstance
+[2019.01.19-05.42.08:554][793]LogSavePackage: Warning: 	LandscapeComponent /Game/Maps/Main/Chapter1-ALT_MAP.Chapter1-ALT_MAP:PersistentLevel.Landscape_0.LandscapeComponent_55 (1 refs)
+[2019.01.19-05.42.08:554][793]LogSavePackage: Warning: 		0) ObjectProperty /Script/Landscape.LandscapeComponent:MobileCombinationMaterialInstance
+[2019.01.19-05.42.08:554][793]LogSavePackage: Warning: 	LandscapeComponent /Game/Maps/Main/Chapter1-ALT_MAP.Chapter1-ALT_MAP:PersistentLevel.Landscape_0.LandscapeComponent_56 (1 refs)
+[2019.01.19-05.42.08:554][793]LogSavePackage: Warning: 		0) ObjectProperty /Script/Landscape.LandscapeComponent:MobileCombinationMaterialInstance
+[2019.01.19-05.42.08:554][793]LogSavePackage: Warning: 	LandscapeComponent /Game/Maps/Main/Chapter1-ALT_MAP.Chapter1-ALT_MAP:PersistentLevel.Landscape_0.LandscapeComponent_57 (1 refs)
+[2019.01.19-05.42.08:554][793]LogSavePackage: Warning: 		0) ObjectProperty /Script/Landscape.LandscapeComponent:MobileCombinationMaterialInstance
+[2019.01.19-05.42.08:554][793]LogSavePackage: Warning: 	LandscapeComponent /Game/Maps/Main/Chapter1-ALT_MAP.Chapter1-ALT_MAP:PersistentLevel.Landscape_0.LandscapeComponent_58 (1 refs)
+[2019.01.19-05.42.08:554][793]LogSavePackage: Warning: 		0) ObjectProperty /Script/Landscape.LandscapeComponent:MobileCombinationMaterialInstance
+[2019.01.19-05.42.08:554][793]LogSavePackage: Warning: 	LandscapeComponent /Game/Maps/Main/Chapter1-ALT_MAP.Chapter1-ALT_MAP:PersistentLevel.Landscape_0.LandscapeComponent_59 (1 refs)
+[2019.01.19-05.42.08:554][793]LogSavePackage: Warning: 		0) ObjectProperty /Script/Landscape.LandscapeComponent:MobileCombinationMaterialInstance
+[2019.01.19-05.42.08:554][793]LogSavePackage: Warning: 	LandscapeComponent /Game/Maps/Main/Chapter1-ALT_MAP.Chapter1-ALT_MAP:PersistentLevel.Landscape_0.LandscapeComponent_60 (1 refs)
+[2019.01.19-05.42.08:554][793]LogSavePackage: Warning: 		0) ObjectProperty /Script/Landscape.LandscapeComponent:MobileCombinationMaterialInstance
+[2019.01.19-05.42.08:554][793]LogSavePackage: Warning: 	LandscapeComponent /Game/Maps/Main/Chapter1-ALT_MAP.Chapter1-ALT_MAP:PersistentLevel.Landscape_0.LandscapeComponent_61 (1 refs)
+[2019.01.19-05.42.08:554][793]LogSavePackage: Warning: 		0) ObjectProperty /Script/Landscape.LandscapeComponent:MobileCombinationMaterialInstance
+[2019.01.19-05.42.08:554][793]LogSavePackage: Warning: 	LandscapeComponent /Game/Maps/Main/Chapter1-ALT_MAP.Chapter1-ALT_MAP:PersistentLevel.Landscape_0.LandscapeComponent_62 (1 refs)
+[2019.01.19-05.42.08:554][793]LogSavePackage: Warning: 		0) ObjectProperty /Script/Landscape.LandscapeComponent:MobileCombinationMaterialInstance
+[2019.01.19-05.42.08:554][793]LogSavePackage: Warning: 	LandscapeComponent /Game/Maps/Main/Chapter1-ALT_MAP.Chapter1-ALT_MAP:PersistentLevel.Landscape_0.LandscapeComponent_63 (1 refs)
+[2019.01.19-05.42.08:554][793]LogSavePackage: Warning: 		0) ObjectProperty /Script/Landscape.LandscapeComponent:MobileCombinationMaterialInstance
+[2019.01.19-05.42.08:583][793]EditorErrors: New page: Save Output
+[2019.01.19-05.42.08:583][793]EditorErrors: Warning: Can't save ../../../../../../Users/Ryan/Documents/GitHub/TheOnioning2019/TheOnioning/Content/Maps/Main/Chapter1-ALT_MAP.umap: Graph is linked to external private object LandscapeMaterialInstanceConstant /Game/Maps/Main/Chapter1_MAP.LandscapeMaterialInstanceConstant_2 (MobileCombinationMaterialInstance)
+[2019.01.19-05.42.08:600][793]LogFileHelpers: Saving map 'Chapter1-ALT_MAP' took 4.906
+[2019.01.19-05.42.10:534][793]LogSlate: Window 'Message' being destroyed
+[2019.01.19-05.42.11:758][793]LogSlate: Window 'Packages Failed To Save' being destroyed
+[2019.01.19-05.42.13:758][  0]LogSlate: Window 'Message Log' being destroyed
+[2019.01.19-05.42.13:760][  0]LogSlate: Window 'Message Log' being destroyed
+[2019.01.19-05.42.28:892][673]LogSlate: Window 'Delete Assets' being destroyed
+[2019.01.19-05.42.48:923][894]LogSavePackage: Moving '../../../../../../Users/Ryan/Documents/GitHub/TheOnioning2019/TheOnioning/Saved/Chapter1V1_MAPFE041212447DD9D616D354A6D30B93B5.tmp' to '../../../../../../Users/Ryan/Documents/GitHub/TheOnioning2019/TheOnioning/Content/Maps/Main/Chapter1V1_MAP.umap'
+[2019.01.19-05.42.51:016][984]LogSlate: Window 'Save Content' being destroyed
+[2019.01.19-05.42.51:035][984]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Main/Chapter1_MAP" FILE="../../../../../../Users/Ryan/Documents/GitHub/TheOnioning2019/TheOnioning/Content/Maps/Main/Chapter1_MAP.umap" SILENT=true
+[2019.01.19-05.42.51:064][984]LogSavePackage: Moving '../../../../../../Users/Ryan/Documents/GitHub/TheOnioning2019/TheOnioning/Saved/Chapter1_MAP6F76BD0D4D7ACECB5B6A52BF3F90901F.tmp' to '../../../../../../Users/Ryan/Documents/GitHub/TheOnioning2019/TheOnioning/Content/Maps/Main/Chapter1_MAP.umap'
+[2019.01.19-05.42.51:172][984]LogSlate: Window 'TheOnioning - Unreal Editor' being destroyed
+[2019.01.19-05.42.51:420][985]Cmd: QUIT_EDITOR
+[2019.01.19-05.42.51:543][985]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.01.19-05.42.51:603][985]LogExit: Preparing to exit.
+[2019.01.19-05.42.52:913][985]LogExit: Editor shut down
+[2019.01.19-05.42.52:914][985]LogExit: Transaction tracking system shut down
+[2019.01.19-05.42.54:235][985]LogExit: Object subsystem successfully closed.
+[2019.01.19-05.42.54:339][985]LogShaderCompilers: Display: Shaders left to compile 0
+[2019.01.19-05.42.54:360][985]LogD3D11RHI: Shutdown
+[2019.01.19-05.42.54:360][985]LogD3D11RHI: CleanupD3DDevice
+[2019.01.19-05.42.54:373][985]LogD3D11RHI: ~FD3D11DynamicRHI
+[2019.01.19-05.42.54:908][985]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (620)
+[2019.01.19-05.42.54:908][985]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (618)
+[2019.01.19-05.42.54:908][985]LogModuleManager: Shutting down and abandoning module Voice (616)
+[2019.01.19-05.42.54:908][985]LogModuleManager: Shutting down and abandoning module MeshBuilder (614)
+[2019.01.19-05.42.54:908][985]LogModuleManager: Shutting down and abandoning module StaticMeshEditor (612)
+[2019.01.19-05.42.54:908][985]LogModuleManager: Shutting down and abandoning module StatsViewer (610)
+[2019.01.19-05.42.54:908][985]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (608)
+[2019.01.19-05.42.54:908][985]LogModuleManager: Shutting down and abandoning module SceneOutliner (606)
+[2019.01.19-05.42.54:908][985]LogModuleManager: Shutting down and abandoning module AddContentDialog (604)
+[2019.01.19-05.42.54:919][985]LogModuleManager: Shutting down and abandoning module WidgetCarousel (603)
+[2019.01.19-05.42.54:919][985]LogModuleManager: Shutting down and abandoning module EditorWidgets (600)
+[2019.01.19-05.42.54:919][985]LogModuleManager: Shutting down and abandoning module CollectionManager (598)
+[2019.01.19-05.42.54:960][985]LogModuleManager: Shutting down and abandoning module FoliageEdit (596)
+[2019.01.19-05.42.54:960][985]LogModuleManager: Shutting down and abandoning module LandscapeEditor (594)
+[2019.01.19-05.42.55:049][985]LogModuleManager: Shutting down and abandoning module MeshPaintMode (592)
+[2019.01.19-05.42.55:049][985]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (590)
+[2019.01.19-05.42.55:049][985]LogModuleManager: Shutting down and abandoning module ActorPickerMode (588)
+[2019.01.19-05.42.55:049][985]LogModuleManager: Shutting down and abandoning module GeometryMode (586)
+[2019.01.19-05.42.55:049][985]LogModuleManager: Shutting down and abandoning module TextureAlignMode (584)
+[2019.01.19-05.42.55:049][985]LogModuleManager: Shutting down and abandoning module BspMode (582)
+[2019.01.19-05.42.55:049][985]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (580)
+[2019.01.19-05.42.55:072][985]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (578)
+[2019.01.19-05.42.55:072][985]LogModuleManager: Shutting down and abandoning module AutomationWorker (576)
+[2019.01.19-05.42.55:072][985]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (574)
+[2019.01.19-05.42.55:072][985]LogModuleManager: Shutting down and abandoning module SequenceRecorder (573)
+[2019.01.19-05.42.55:072][985]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (570)
+[2019.01.19-05.42.55:072][985]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (568)
+[2019.01.19-05.42.55:082][985]LogModuleManager: Shutting down and abandoning module PlacementMode (567)
+[2019.01.19-05.42.55:082][985]LogModuleManager: Shutting down and abandoning module MaterialEditor (566)
+[2019.01.19-05.42.55:162][985]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (562)
+[2019.01.19-05.42.55:162][985]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (560)
+[2019.01.19-05.42.55:162][985]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (558)
+[2019.01.19-05.42.55:162][985]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (556)
+[2019.01.19-05.42.55:162][985]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (554)
+[2019.01.19-05.42.55:162][985]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (552)
+[2019.01.19-05.42.55:162][985]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (550)
+[2019.01.19-05.42.55:162][985]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (548)
+[2019.01.19-05.42.55:162][985]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (546)
+[2019.01.19-05.42.55:162][985]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (544)
+[2019.01.19-05.42.55:162][985]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (542)
+[2019.01.19-05.42.55:162][985]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (540)
+[2019.01.19-05.42.55:162][985]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (538)
+[2019.01.19-05.42.55:162][985]LogModuleManager: Shutting down and abandoning module CharacterAI (536)
+[2019.01.19-05.42.55:162][985]LogModuleManager: Shutting down and abandoning module SmartSnapping (534)
+[2019.01.19-05.42.55:162][985]LogModuleManager: Shutting down and abandoning module SessionServices (532)
+[2019.01.19-05.42.55:162][985]LogModuleManager: Shutting down and abandoning module ViewportSnapping (530)
+[2019.01.19-05.42.55:162][985]LogModuleManager: Shutting down and abandoning module ViewportInteraction (528)
+[2019.01.19-05.42.55:173][985]LogModuleManager: Shutting down and abandoning module ClothPainter (526)
+[2019.01.19-05.42.55:223][985]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (525)
+[2019.01.19-05.42.55:224][985]LogModuleManager: Shutting down and abandoning module LogVisualizer (522)
+[2019.01.19-05.42.55:224][985]LogModuleManager: Shutting down and abandoning module IntroTutorials (520)
+[2019.01.19-05.42.55:224][985]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (519)
+[2019.01.19-05.42.55:230][985]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (516)
+[2019.01.19-05.42.55:230][985]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (514)
+[2019.01.19-05.42.55:230][985]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (512)
+[2019.01.19-05.42.55:231][985]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (510)
+[2019.01.19-05.42.55:231][985]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (509)
+[2019.01.19-05.42.55:797][985]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (506)
+[2019.01.19-05.42.55:798][985]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (504)
+[2019.01.19-05.42.55:798][985]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (502)
+[2019.01.19-05.42.55:798][985]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (500)
+[2019.01.19-05.42.55:798][985]LogModuleManager: Shutting down and abandoning module InputBindingEditor (498)
+[2019.01.19-05.42.55:818][985]LogModuleManager: Shutting down and abandoning module MergeActors (496)
+[2019.01.19-05.42.55:818][985]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (494)
+[2019.01.19-05.42.55:829][985]LogModuleManager: Shutting down and abandoning module LocalizationService (493)
+[2019.01.19-05.42.55:829][985]LogModuleManager: Shutting down and abandoning module HardwareTargeting (490)
+[2019.01.19-05.42.55:829][985]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (488)
+[2019.01.19-05.42.55:829][985]LogModuleManager: Shutting down and abandoning module UndoHistory (486)
+[2019.01.19-05.42.55:829][985]LogModuleManager: Shutting down and abandoning module XmlParser (484)
+[2019.01.19-05.42.55:829][985]LogModuleManager: Shutting down and abandoning module Blutility (482)
+[2019.01.19-05.42.55:829][985]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (480)
+[2019.01.19-05.42.55:829][985]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (479)
+[2019.01.19-05.42.55:829][985]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (476)
+[2019.01.19-05.42.55:829][985]LogModuleManager: Shutting down and abandoning module SettingsEditor (474)
+[2019.01.19-05.42.55:829][985]LogModuleManager: Shutting down and abandoning module ProjectLauncher (472)
+[2019.01.19-05.42.55:838][985]LogModuleManager: Shutting down and abandoning module SessionFrontend (470)
+[2019.01.19-05.42.55:838][985]LogModuleManager: Shutting down and abandoning module ProfilerClient (468)
+[2019.01.19-05.42.55:844][985]LogModuleManager: Shutting down and abandoning module DeviceManager (466)
+[2019.01.19-05.42.55:844][985]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (465)
+[2019.01.19-05.42.55:899][985]LogModuleManager: Shutting down and abandoning module AutomationController (462)
+[2019.01.19-05.42.55:899][985]LogModuleManager: Shutting down and abandoning module AutomationWindow (460)
+[2019.01.19-05.42.55:919][985]LogModuleManager: Shutting down and abandoning module Layers (458)
+[2019.01.19-05.42.55:947][985]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (456)
+[2019.01.19-05.42.55:947][985]LogModuleManager: Shutting down and abandoning module DetailCustomizations (454)
+[2019.01.19-05.42.55:947][985]LogModuleManager: Shutting down and abandoning module PackagesDialog (452)
+[2019.01.19-05.42.55:947][985]LogModuleManager: Shutting down and abandoning module Persona (450)
+[2019.01.19-05.42.55:951][985]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (449)
+[2019.01.19-05.42.55:951][985]LogModuleManager: Shutting down and abandoning module AnimGraph (447)
+[2019.01.19-05.42.55:961][985]LogModuleManager: Shutting down and abandoning module Kismet (444)
+[2019.01.19-05.42.55:967][985]LogModuleManager: Shutting down and abandoning module GraphEditor (442)
+[2019.01.19-05.42.56:013][985]LogModuleManager: Shutting down and abandoning module ClassViewer (440)
+[2019.01.19-05.42.56:013][985]LogModuleManager: Shutting down and abandoning module Toolbox (438)
+[2019.01.19-05.42.56:013][985]LogModuleManager: Shutting down and abandoning module ModuleUI (436)
+[2019.01.19-05.42.56:017][985]LogModuleManager: Shutting down and abandoning module MovieSceneTools (434)
+[2019.01.19-05.42.56:017][985]LogModuleManager: Shutting down and abandoning module OutputLog (432)
+[2019.01.19-05.42.56:017][985]LogModuleManager: Shutting down and abandoning module GammaUI (430)
+[2019.01.19-05.42.56:022][985]LogModuleManager: Shutting down and abandoning module Documentation (428)
+[2019.01.19-05.42.56:022][985]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (426)
+[2019.01.19-05.42.56:022][985]LogModuleManager: Shutting down and abandoning module MovieScene (424)
+[2019.01.19-05.42.56:022][985]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (422)
+[2019.01.19-05.42.56:022][985]LogModuleManager: Shutting down and abandoning module LauncherPlatform (420)
+[2019.01.19-05.42.56:022][985]LogModuleManager: Shutting down and abandoning module AnalyticsET (418)
+[2019.01.19-05.42.56:022][985]LogModuleManager: Shutting down and abandoning module PortalServices (416)
+[2019.01.19-05.42.56:022][985]LogModuleManager: Shutting down and abandoning module PortalRpc (414)
+[2019.01.19-05.42.56:022][985]LogModuleManager: Shutting down and abandoning module MessagingRpc (412)
+[2019.01.19-05.42.56:022][985]LogModuleManager: Shutting down and abandoning module AIModule (410)
+[2019.01.19-05.42.56:022][985]LogModuleManager: Shutting down and abandoning module GameplayDebugger (409)
+[2019.01.19-05.42.56:022][985]LogModuleManager: Shutting down and abandoning module AITestSuite (407)
+[2019.01.19-05.42.56:022][985]LogModuleManager: Shutting down and abandoning module NavigationSystem (405)
+[2019.01.19-05.42.56:023][985]LogModuleManager: Shutting down and abandoning module DesktopPlatform (402)
+[2019.01.19-05.42.56:023][985]LogModuleManager: Shutting down and abandoning module ProfilerService (400)
+[2019.01.19-05.42.56:117][985]LogModuleManager: Shutting down and abandoning module TaskGraph (398)
+[2019.01.19-05.42.56:117][985]LogModuleManager: Shutting down and abandoning module SteamVRController (396)
+[2019.01.19-05.42.56:117][985]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (394)
+[2019.01.19-05.42.56:117][985]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (392)
+[2019.01.19-05.42.56:117][985]LogModuleManager: Shutting down and abandoning module OculusInput (390)
+[2019.01.19-05.42.56:117][985]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (388)
+[2019.01.19-05.42.56:117][985]LogModuleManager: Shutting down and abandoning module EditableMesh (386)
+[2019.01.19-05.42.56:117][985]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (384)
+[2019.01.19-05.42.56:117][985]LogModuleManager: Shutting down and abandoning module CableComponent (382)
+[2019.01.19-05.42.56:117][985]LogModuleManager: Shutting down and abandoning module AudioCapture (380)
+[2019.01.19-05.42.56:117][985]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (378)
+[2019.01.19-05.42.56:117][985]LogModuleManager: Shutting down and abandoning module AndroidPermission (376)
+[2019.01.19-05.42.56:117][985]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (374)
+[2019.01.19-05.42.56:117][985]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (372)
+[2019.01.19-05.42.56:138][985]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (370)
+[2019.01.19-05.42.56:138][985]LogModuleManager: Shutting down and abandoning module MediaCompositing (368)
+[2019.01.19-05.42.56:138][985]LogModuleManager: Shutting down and abandoning module LinearTimecode (366)
+[2019.01.19-05.42.56:138][985]LogModuleManager: Shutting down and abandoning module ImgMedia (364)
+[2019.01.19-05.42.56:146][985]LogModuleManager: Shutting down and abandoning module HTML5Networking (362)
+[2019.01.19-05.42.56:146][985]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (360)
+[2019.01.19-05.42.56:146][985]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (358)
+[2019.01.19-05.42.56:146][985]LogModuleManager: Shutting down and abandoning module BackChannel (356)
+[2019.01.19-05.42.56:146][985]LogModuleManager: Shutting down and abandoning module AppleVision (354)
+[2019.01.19-05.42.56:146][985]LogModuleManager: Shutting down and abandoning module AppleImageUtils (352)
+[2019.01.19-05.42.56:146][985]LogModuleManager: Shutting down and abandoning module AlembicImporter (350)
+[2019.01.19-05.42.56:146][985]LogModuleManager: Shutting down and abandoning module AlembicLibrary (349)
+[2019.01.19-05.42.56:146][985]LogModuleManager: Shutting down and abandoning module GeometryCache (348)
+[2019.01.19-05.42.56:146][985]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (347)
+[2019.01.19-05.42.56:146][985]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (342)
+[2019.01.19-05.42.56:146][985]LogModuleManager: Shutting down and abandoning module DatasmithContent (340)
+[2019.01.19-05.42.56:147][985]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (338)
+[2019.01.19-05.42.56:147][985]LogModuleManager: Shutting down and abandoning module PluginBrowser (336)
+[2019.01.19-05.42.56:156][985]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (334)
+[2019.01.19-05.42.56:161][985]LogModuleManager: Shutting down and abandoning module PolygonModeling (332)
+[2019.01.19-05.42.56:161][985]LogModuleManager: Shutting down and abandoning module MeshEditor (330)
+[2019.01.19-05.42.56:161][985]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (328)
+[2019.01.19-05.42.56:161][985]LogModuleManager: Shutting down and abandoning module CryptoKeys (326)
+[2019.01.19-05.42.56:161][985]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (324)
+[2019.01.19-05.42.56:161][985]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (322)
+[2019.01.19-05.42.56:161][985]LogModuleManager: Shutting down and abandoning module UObjectPlugin (320)
+[2019.01.19-05.42.56:161][985]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (318)
+[2019.01.19-05.42.56:161][985]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (316)
+[2019.01.19-05.42.56:164][985]LogModuleManager: Shutting down and abandoning module GitSourceControl (314)
+[2019.01.19-05.42.56:164][985]LogModuleManager: Shutting down and abandoning module SourceControl (313)
+[2019.01.19-05.42.56:173][985]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (310)
+[2019.01.19-05.42.56:173][985]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (308)
+[2019.01.19-05.42.56:173][985]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (306)
+[2019.01.19-05.42.56:173][985]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (304)
+[2019.01.19-05.42.56:173][985]LogModuleManager: Shutting down and abandoning module Paper2DEditor (302)
+[2019.01.19-05.42.56:184][985]LogModuleManager: Shutting down and abandoning module MeshPaint (301)
+[2019.01.19-05.42.56:184][985]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (298)
+[2019.01.19-05.42.56:184][985]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (296)
+[2019.01.19-05.42.56:184][985]LogModuleManager: Shutting down and abandoning module PhysXVehicles (294)
+[2019.01.19-05.42.56:184][985]LogModuleManager: Shutting down and abandoning module OculusEditor (292)
+[2019.01.19-05.42.56:189][985]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (290)
+[2019.01.19-05.42.56:189][985]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (288)
+[2019.01.19-05.42.56:189][985]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (286)
+[2019.01.19-05.42.56:189][985]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2019.01.19-05.42.56:189][985]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2019.01.19-05.42.56:290][985]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2019.01.19-05.42.56:391][985]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (278)
+[2019.01.19-05.42.56:391][985]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (276)
+[2019.01.19-05.42.56:413][985]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (274)
+[2019.01.19-05.42.56:413][985]LogModuleManager: Shutting down and abandoning module FacialAnimation (272)
+[2019.01.19-05.42.56:413][985]LogModuleManager: Shutting down and abandoning module DataValidation (270)
+[2019.01.19-05.42.56:413][985]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (268)
+[2019.01.19-05.42.56:421][985]LogModuleManager: Shutting down and abandoning module LevelEditor (267)
+[2019.01.19-05.42.56:421][985]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (266)
+[2019.01.19-05.42.56:421][985]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (264)
+[2019.01.19-05.42.56:422][985]LogModuleManager: Shutting down and abandoning module MainFrame (262)
+[2019.01.19-05.42.56:422][985]LogModuleManager: Shutting down and abandoning module HotReload (261)
+[2019.01.19-05.42.56:422][985]LogModuleManager: Shutting down and abandoning module ContentBrowser (257)
+[2019.01.19-05.42.56:423][985]LogModuleManager: Shutting down and abandoning module TreeMap (255)
+[2019.01.19-05.42.56:423][985]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2019.01.19-05.42.56:423][985]LogModuleManager: Shutting down and abandoning module AISupportModule (250)
+[2019.01.19-05.42.56:423][985]LogModuleManager: Shutting down and abandoning module Paper2D (248)
+[2019.01.19-05.42.56:423][985]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (246)
+[2019.01.19-05.42.56:423][985]LogModuleManager: Shutting down and abandoning module WmfMedia (244)
+[2019.01.19-05.42.56:428][985]LogModuleManager: Shutting down and abandoning module Media (243)
+[2019.01.19-05.42.56:434][985]LogModuleManager: Shutting down and abandoning module PacketHandler (240)
+[2019.01.19-05.42.56:434][985]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (238)
+[2019.01.19-05.42.56:434][985]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (236)
+[2019.01.19-05.42.56:462][985]LogModuleManager: Shutting down and abandoning module MediaAssets (234)
+[2019.01.19-05.42.56:462][985]LogModuleManager: Shutting down and abandoning module Overlay (232)
+[2019.01.19-05.42.56:462][985]LogModuleManager: Shutting down and abandoning module OverlayEditor (231)
+[2019.01.19-05.42.56:462][985]LogModuleManager: Shutting down and abandoning module VREditor (228)
+[2019.01.19-05.42.56:474][985]LogModuleManager: Shutting down and abandoning module StringTableEditor (226)
+[2019.01.19-05.42.56:482][985]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (224)
+[2019.01.19-05.42.56:482][985]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (222)
+[2019.01.19-05.42.56:493][985]LogModuleManager: Shutting down and abandoning module FunctionalTesting (220)
+[2019.01.19-05.42.56:493][985]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (218)
+[2019.01.19-05.42.56:493][985]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (217)
+[2019.01.19-05.42.56:493][985]LogModuleManager: Shutting down and abandoning module UMG (214)
+[2019.01.19-05.42.56:501][985]LogModuleManager: Shutting down and abandoning module UMGEditor (213)
+[2019.01.19-05.42.56:516][985]LogModuleManager: Shutting down and abandoning module Sequencer (212)
+[2019.01.19-05.42.56:528][985]LogModuleManager: Shutting down and abandoning module MessageLog (209)
+[2019.01.19-05.42.56:528][985]LogModuleManager: Shutting down and abandoning module SlateReflector (204)
+[2019.01.19-05.42.56:538][985]LogModuleManager: Shutting down and abandoning module Slate (202)
+[2019.01.19-05.42.56:538][985]LogModuleManager: Shutting down and abandoning module EditorStyle (200)
+[2019.01.19-05.42.56:539][985]LogModuleManager: Shutting down and abandoning module MRMesh (198)
+[2019.01.19-05.42.56:539][985]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (196)
+[2019.01.19-05.42.56:539][985]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (194)
+[2019.01.19-05.42.56:539][985]LogModuleManager: Shutting down and abandoning module XAudio2 (192)
+[2019.01.19-05.42.56:539][985]LogModuleManager: Shutting down and abandoning module Networking (190)
+[2019.01.19-05.42.56:539][985]LogModuleManager: Shutting down and abandoning module Core (188)
+[2019.01.19-05.42.56:539][985]LogModuleManager: Shutting down and abandoning module LevelSequence (186)
+[2019.01.19-05.42.56:539][985]LogModuleManager: Shutting down and abandoning module KismetCompiler (184)
+[2019.01.19-05.42.56:539][985]LogModuleManager: Shutting down and abandoning module MeshUtilities (182)
+[2019.01.19-05.42.56:539][985]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (181)
+[2019.01.19-05.42.56:539][985]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (180)
+[2019.01.19-05.42.56:539][985]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (179)
+[2019.01.19-05.42.56:542][985]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (177)
+[2019.01.19-05.42.56:550][985]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (175)
+[2019.01.19-05.42.56:550][985]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (173)
+[2019.01.19-05.42.56:550][985]LogModuleManager: Shutting down and abandoning module MaterialBaking (169)
+[2019.01.19-05.42.56:562][985]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (165)
+[2019.01.19-05.42.56:562][985]LogModuleManager: Shutting down and abandoning module DerivedDataCache (162)
+[2019.01.19-05.42.56:579][985]LogDerivedDataCache: Shutdown
+[2019.01.19-05.42.56:579][985]LogModuleManager: Shutting down and abandoning module XGEController (160)
+[2019.01.19-05.42.56:579][985]LogXGEController: Cleaning working directory: C:/Users/Ryan/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.01.19-05.42.56:579][985]LogModuleManager: Shutting down and abandoning module TargetPlatform (158)
+[2019.01.19-05.42.56:579][985]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (157)
+[2019.01.19-05.42.56:579][985]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (155)
+[2019.01.19-05.42.56:579][985]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (153)
+[2019.01.19-05.42.56:614][985]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (151)
+[2019.01.19-05.42.56:614][985]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (149)
+[2019.01.19-05.42.56:619][985]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (147)
+[2019.01.19-05.42.56:620][985]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (145)
+[2019.01.19-05.42.56:620][985]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (143)
+[2019.01.19-05.42.56:620][985]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (141)
+[2019.01.19-05.42.56:620][985]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (139)
+[2019.01.19-05.42.56:620][985]LogModuleManager: Shutting down and abandoning module ImageWrapper (138)
+[2019.01.19-05.42.56:620][985]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (135)
+[2019.01.19-05.42.56:620][985]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (133)
+[2019.01.19-05.42.56:620][985]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (131)
+[2019.01.19-05.42.56:620][985]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (129)
+[2019.01.19-05.42.56:620][985]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (127)
+[2019.01.19-05.42.56:620][985]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (125)
+[2019.01.19-05.42.56:620][985]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (123)
+[2019.01.19-05.42.56:620][985]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (121)
+[2019.01.19-05.42.56:620][985]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (119)
+[2019.01.19-05.42.56:620][985]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (117)
+[2019.01.19-05.42.56:621][985]LogModuleManager: Shutting down and abandoning module Messaging (115)
+[2019.01.19-05.42.56:621][985]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (113)
+[2019.01.19-05.42.56:622][985]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (111)
+[2019.01.19-05.42.56:622][985]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (109)
+[2019.01.19-05.42.56:627][985]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (107)
+[2019.01.19-05.42.56:627][985]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (105)
+[2019.01.19-05.42.56:627][985]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (103)
+[2019.01.19-05.42.56:627][985]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (101)
+[2019.01.19-05.42.56:628][985]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (99)
+[2019.01.19-05.42.56:628][985]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (97)
+[2019.01.19-05.42.56:628][985]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (95)
+[2019.01.19-05.42.56:628][985]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (93)
+[2019.01.19-05.42.56:628][985]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (91)
+[2019.01.19-05.42.56:628][985]LogModuleManager: Shutting down and abandoning module InputCore (88)
+[2019.01.19-05.42.56:628][985]LogModuleManager: Shutting down and abandoning module Settings (86)
+[2019.01.19-05.42.56:628][985]LogModuleManager: Shutting down and abandoning module PhysXCooking (84)
+[2019.01.19-05.42.56:628][985]LogModuleManager: Shutting down and abandoning module SteamVR (82)
+[2019.01.19-05.42.56:628][985]LogModuleManager: Shutting down and abandoning module OculusHMD (80)
+[2019.01.19-05.42.56:628][985]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (78)
+[2019.01.19-05.42.56:628][985]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (76)
+[2019.01.19-05.42.56:628][985]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (74)
+[2019.01.19-05.42.56:628][985]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (70)
+[2019.01.19-05.42.56:633][985]LogModuleManager: Shutting down and abandoning module XMPP (65)
+[2019.01.19-05.42.56:642][985]LogModuleManager: Shutting down and abandoning module WebSockets (64)
+[2019.01.19-05.42.56:702][985]LogModuleManager: Shutting down and abandoning module HTTP (61)
+[2019.01.19-05.42.56:706][985]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2019.01.19-05.42.56:706][985]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE803916A-436E-FFBE-07E0-45B186CB1F38%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.20.3-4369336%2B%2B%2BUE4%2BRelease-4.20&UserID=c1a644d34fd2bf148c472c8dce102145%7Cfca6da8878e34404b63a1f9a2d2e697f%7C42d26ed7-d8b8-47ce-be26-b4544398f131&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2019.01.19-05.42.56:709][985]LogModuleManager: Shutting down and abandoning module SSL (60)
+[2019.01.19-05.42.56:716][985]LogModuleManager: Shutting down and abandoning module MagicLeapEmulator (56)
+[2019.01.19-05.42.56:716][985]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (54)
+[2019.01.19-05.42.56:716][985]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (52)
+[2019.01.19-05.42.56:716][985]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (50)
+[2019.01.19-05.42.56:716][985]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (48)
+[2019.01.19-05.42.56:716][985]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (46)
+[2019.01.19-05.42.56:716][985]LogModuleManager: Shutting down and abandoning module MagicLeapGestures (44)
+[2019.01.19-05.42.56:716][985]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (42)
+[2019.01.19-05.42.56:716][985]LogModuleManager: Shutting down and abandoning module MagicLeapController (40)
+[2019.01.19-05.42.56:717][985]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2019.01.19-05.42.56:717][985]LogModuleManager: Shutting down and abandoning module MagicLeap (38)
+[2019.01.19-05.42.56:726][985]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2019.01.19-05.42.56:751][985]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2019.01.19-05.42.56:751][985]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2019.01.19-05.42.56:765][985]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2019.01.19-05.42.56:779][985]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2019.01.19-05.42.56:779][985]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2019.01.19-05.42.56:779][985]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2019.01.19-05.42.56:788][985]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2019.01.19-05.42.56:793][985]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2019.01.19-05.42.56:794][985]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2019.01.19-05.42.56:794][985]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2019.01.19-05.42.56:794][985]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2019.01.19-05.42.56:794][985]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2019.01.19-05.42.56:794][985]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2019.01.19-05.42.56:811][985]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2019.01.19-05.42.56:811][985]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2019.01.19-05.42.56:820][985]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2019.01.19-05.42.56:820][985]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2019.01.19-05.42.56:835][985]LogExit: Exiting.
+[2019.01.19-05.42.56:847][985]Log file closed, 01/18/19 21:42:56
